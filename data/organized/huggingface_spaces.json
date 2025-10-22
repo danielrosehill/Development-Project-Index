@@ -1,0 +1,392 @@
+[
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Multimodal-AI-Taxonomy",
+    "full_name": "danielrosehill/Multimodal-AI-Taxonomy",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Multimodal-AI-Taxonomy",
+    "created_at": "2025-10-22 15:09:56+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Voice-Prompt-Pipeline",
+    "full_name": "danielrosehill/Voice-Prompt-Pipeline",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Voice-Prompt-Pipeline",
+    "created_at": "2025-10-22 14:08:01+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Lisdexamfetamine-Split-Dose-Modeller",
+    "full_name": "danielrosehill/Lisdexamfetamine-Split-Dose-Modeller",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Lisdexamfetamine-Split-Dose-Modeller",
+    "created_at": "2025-10-20 13:11:48+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "SATINT-Analyst",
+    "full_name": "danielrosehill/SATINT-Analyst",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/SATINT-Analyst",
+    "created_at": "2025-10-18 20:39:49+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Audio-To-Subtitles",
+    "full_name": "danielrosehill/Audio-To-Subtitles",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Audio-To-Subtitles",
+    "created_at": "2025-10-14 22:16:08+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "GVFD-Navigator",
+    "full_name": "danielrosehill/GVFD-Navigator",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/GVFD-Navigator",
+    "created_at": "2025-10-14 21:47:07+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Agent-UN",
+    "full_name": "danielrosehill/Agent-UN",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Agent-UN",
+    "created_at": "2025-10-09 12:04:07+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "System-Prompt-Reformatter",
+    "full_name": "danielrosehill/System-Prompt-Reformatter",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/System-Prompt-Reformatter",
+    "created_at": "2025-09-28 14:03:46+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Basic-STT-Transcript-Cleanup",
+    "full_name": "danielrosehill/Basic-STT-Transcript-Cleanup",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Basic-STT-Transcript-Cleanup",
+    "created_at": "2025-09-28 10:26:58+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Code-Gen-Agents-Network",
+    "full_name": "danielrosehill/Code-Gen-Agents-Network",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Code-Gen-Agents-Network",
+    "created_at": "2025-09-15 13:18:54+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Prompt-To-Podcast-Script",
+    "full_name": "danielrosehill/Prompt-To-Podcast-Script",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Prompt-To-Podcast-Script",
+    "created_at": "2025-09-12 08:55:25+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Code-Gen-Agent-Prompt-Assistant",
+    "full_name": "danielrosehill/Code-Gen-Agent-Prompt-Assistant",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Code-Gen-Agent-Prompt-Assistant",
+    "created_at": "2025-09-10 20:48:48+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Text-Transformation-Model",
+    "full_name": "danielrosehill/Text-Transformation-Model",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Text-Transformation-Model",
+    "created_at": "2025-09-10 20:27:17+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "BLUF-Email-Formatter",
+    "full_name": "danielrosehill/BLUF-Email-Formatter",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/BLUF-Email-Formatter",
+    "created_at": "2025-09-03 11:07:22+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "GVFD-Explorer",
+    "full_name": "danielrosehill/GVFD-Explorer",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/GVFD-Explorer",
+    "created_at": "2025-08-24 15:29:13+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "System-Prompt-Depersonaliser",
+    "full_name": "danielrosehill/System-Prompt-Depersonaliser",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/System-Prompt-Depersonaliser",
+    "created_at": "2025-05-05 01:44:24+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Shakespeare-AI",
+    "full_name": "danielrosehill/Shakespeare-AI",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Shakespeare-AI",
+    "created_at": "2025-04-21 21:19:40+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "AI-Assistants-Library",
+    "full_name": "danielrosehill/AI-Assistants-Library",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/AI-Assistants-Library",
+    "created_at": "2025-03-04 19:23:36+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "System-Prompt-Factory",
+    "full_name": "danielrosehill/System-Prompt-Factory",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/System-Prompt-Factory",
+    "created_at": "2025-02-25 02:49:28+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Max-Output-Tokens-Analysis-0225",
+    "full_name": "danielrosehill/Max-Output-Tokens-Analysis-0225",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Max-Output-Tokens-Analysis-0225",
+    "created_at": "2025-02-08 18:21:34+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "AI-Context-Generation-Interviews",
+    "full_name": "danielrosehill/AI-Context-Generation-Interviews",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/AI-Context-Generation-Interviews",
+    "created_at": "2025-02-03 21:40:44+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Assistant-Config-Library",
+    "full_name": "danielrosehill/Assistant-Config-Library",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Assistant-Config-Library",
+    "created_at": "2025-01-28 23:06:34+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Prompt-And-Output-Separator",
+    "full_name": "danielrosehill/Prompt-And-Output-Separator",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Prompt-And-Output-Separator",
+    "created_at": "2024-12-22 20:55:06+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Monetised-GHG-Emissions-Calculator",
+    "full_name": "danielrosehill/Monetised-GHG-Emissions-Calculator",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Monetised-GHG-Emissions-Calculator",
+    "created_at": "2024-12-19 21:51:18+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "ghg-emissions-viz",
+    "full_name": "danielrosehill/ghg-emissions-viz",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/ghg-emissions-viz",
+    "created_at": "2024-12-11 10:44:26+00:00",
+    "updated_at": null,
+    "language": "streamlit",
+    "topics": [
+      "streamlit",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "llm-long-codegen-experiment",
+    "full_name": "danielrosehill/llm-long-codegen-experiment",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/llm-long-codegen-experiment",
+    "created_at": "2024-12-10 20:54:48+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  }
+]

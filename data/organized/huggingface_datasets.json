@@ -1,0 +1,811 @@
+[
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "multimodal-ai-taxonomy",
+    "full_name": "danielrosehill/multimodal-ai-taxonomy",
+    "description": null,
+    "url": "https://huggingface.co/datasets/danielrosehill/multimodal-ai-taxonomy",
+    "created_at": "2025-10-22 14:43:56+00:00",
+    "updated_at": "2025-10-22 14:43:56+00:00",
+    "language": null,
+    "topics": [
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Jerusalem-High-Rise-Development",
+    "full_name": "danielrosehill/Jerusalem-High-Rise-Development",
+    "description": "\n\t\n\t\t\n\t\tJerusalem High-Rise Development Image Dataset\n\t\n\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis dataset contains 56 photographs documenting high-rise buildings and urban development in Jerusalem, Israel. The images capture the architectural evolution of Jerusalem's modern skyline, featuring contemporary construction, building facades, and urban landscapes.\n\n\t\n\t\t\n\t\tPurpose\n\t\n\nThis dataset has been created and shared for the following purposes:\n\nImage fine-tuning and AI training: High-quality architectural\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Jerusalem-High-Rise-Development.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-High-Rise-Development",
+    "created_at": "2025-10-18 17:32:45+00:00",
+    "updated_at": "2025-10-18 17:45:25+00:00",
+    "language": null,
+    "topics": [
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "doi:10.57967/hf/6754",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Hebrew-Language-Signage",
+    "full_name": "danielrosehill/Hebrew-Language-Signage",
+    "description": "\n\t\n\t\t\n\t\tHebrew Language Signage Dataset\n\t\n\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis dataset contains photographs of Hebrew language text in everyday contexts throughout Israel, with a particular focus on signage displays including street signs, commercial signage, and public information displays.\n\n\t\n\t\t\n\t\tDataset Details\n\t\n\n\nTotal Images: 68\nFormat: PNG\nContent: Real-world photographs of Hebrew text and signage\nLanguage Coverage: Primarily Hebrew, with many signs also containing English and Arabic text\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Hebrew-Language-Signage.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Hebrew-Language-Signage",
+    "created_at": "2025-10-18 17:23:32+00:00",
+    "updated_at": "2025-10-18 17:29:54+00:00",
+    "language": null,
+    "topics": [
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "doi:10.57967/hf/6755",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Tel-Aviv-Pics",
+    "full_name": "danielrosehill/Tel-Aviv-Pics",
+    "description": "\n\t\n\t\t\n\t\tTel Aviv Urban Photography Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThis dataset contains 53 high-quality photographs of Tel Aviv's urban environment, captured to serve as reference material for game development, 3D world creation, and digital environment design.\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\n\nTotal Images: 53 photographs\nLocation: Tel Aviv, Israel\nFormat: JPG\nAverage Size: ~1MB per image\nResolution: High-resolution photographs suitable for texture extraction and reference\nLicense:\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Tel-Aviv-Pics.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Tel-Aviv-Pics",
+    "created_at": "2025-10-17 13:44:37+00:00",
+    "updated_at": "2025-10-17 13:59:36+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:image-to-image",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-image",
+      "license:cc-by-4.0",
+      "size_categories:n<1K",
+      "doi:10.57967/hf/6743",
+      "region:us",
+      "urban-environments",
+      "game-development",
+      "3d-modeling",
+      "world-building",
+      "city-scenes",
+      "tel-aviv",
+      "middle-east",
+      "architecture",
+      "photogrammetry",
+      "reference-images"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Jerusalem-Streetscapes",
+    "full_name": "danielrosehill/Jerusalem-Streetscapes",
+    "description": "\n\t\n\t\t\n\t\tJerusalem Streetscapes Dataset\n\t\n\nA small image dataset containing photos of the rapidly changing urban landscape of Jerusalem, Israel, captured by day and by night.\n\n\t\n\t\t\n\t\tAbout\n\t\n\nThis dataset documents the evolving cityscape of Jerusalem through 120 photographs taken between June 2024 and September 2025.\n\n\t\n\t\t\n\t\tDataset Details\n\t\n\n\nNumber of Images: 120\nTime Period: June 2024 - September 2025\nLocation: Jerusalem, Israel\nCoverage: Day and night photography of urban landscapes\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Jerusalem-Streetscapes.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-Streetscapes",
+    "created_at": "2025-10-06 06:22:52+00:00",
+    "updated_at": "2025-10-06 06:47:25+00:00",
+    "language": null,
+    "topics": [
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "doi:10.57967/hf/6756",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Narcissistic-Abuse-Support-Configs",
+    "full_name": "danielrosehill/Narcissistic-Abuse-Support-Configs",
+    "description": "\n\t\n\t\t\n\t\tNarcissistic Abuse AI Support Configurations\n\t\n\nA comprehensive network of AI agent configurations designed to provide support for individuals affected by relationships with personality disordered individuals, particularly those with Cluster B disorders and narcissistic personality disorder.\n\n\t\n\t\t\n\t\tImportant Disclaimer\n\t\n\nThese tools are not replacements for professional mental health support. They are intended as adjuncts to professional therapeutic care. Most configurations contain\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Narcissistic-Abuse-Support-Configs.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Narcissistic-Abuse-Support-Configs",
+    "created_at": "2025-09-26 15:34:58+00:00",
+    "updated_at": "2025-09-26 15:36:16+00:00",
+    "language": null,
+    "topics": [
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Jerusalem-Emergency-Shelters-0925",
+    "full_name": "danielrosehill/Jerusalem-Emergency-Shelters-0925",
+    "description": "\n\t\n\t\t\n\t\tJerusalem Public Shelter Dataset - September 2025\n\t\n\n\n\n\n\nThis repository contains updated location data for public shelters in the Jerusalem area, populated on September 19th, 2025. The data has been processed and enhanced to support individual preparedness efforts and geolocation applications.\n\n\t\n\t\t\n\t\tData Source\n\t\n\nThe original data was provided by the Jerusalem Municipality and is available in the source_data folder. This dataset represents the most current information available as\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Jerusalem-Emergency-Shelters-0925.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-Emergency-Shelters-0925",
+    "created_at": "2025-09-19 15:49:44+00:00",
+    "updated_at": "2025-09-19 15:52:21+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "size_categories:n<1K",
+      "format:csv",
+      "modality:geospatial",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Code-Gen-Agents-0925",
+    "full_name": "danielrosehill/Code-Gen-Agents-0925",
+    "description": "\n\t\n\t\t\n\t\tCode Generation Agent Network\n\t\n\nA comprehensive collection of specialized AI agents for code generation, development workflows, and project management. While originally designed for Claude Code, these agent specifications are framework-agnostic and can be adapted to work with any AI code generation platform or multi-agent system.\n\n\t\n\t\t\n\t\tFramework Agnostic Design\n\t\n\nThis repository contains agent specifications that define:\n\nClear role definitions and capabilities\nTool requirements\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Code-Gen-Agents-0925.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Code-Gen-Agents-0925",
+    "created_at": "2025-09-15 13:13:24+00:00",
+    "updated_at": "2025-09-15 13:18:00+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "ISO-3166-4217-Consolidated",
+    "full_name": "danielrosehill/ISO-3166-4217-Consolidated",
+    "description": "\n\t\n\t\t\n\t\tISO-3166 & ISO-4217 \"Consolidated\" Lookup Dataset\n\t\n\nThis dataset contains a mapping between ISO-3166 (countries) and ISO-4217 (currencies).\nThe objective was to create a single dataset to support everyday workloads in international financial analysis undertaken by \"casual\" / non-official actors and analysts. \n\n\t\n\t\t\n\t\tVersion\n\t\n\nV1\nCompiled by: Daniel Rosehill\nDate: 03-09 (September) - 2025\nNote: geopolitics and the global financial system are clearly dynamic concepts. \nMuch as this\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/ISO-3166-4217-Consolidated.",
+    "url": "https://huggingface.co/datasets/danielrosehill/ISO-3166-4217-Consolidated",
+    "created_at": "2025-09-03 12:33:17+00:00",
+    "updated_at": "2025-09-03 14:28:21+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "doi:10.57967/hf/6405",
+      "region:us",
+      "finance"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "prompt-or-not",
+    "full_name": "danielrosehill/prompt-or-not",
+    "description": null,
+    "url": "https://huggingface.co/datasets/danielrosehill/prompt-or-not",
+    "created_at": "2025-08-31 08:25:38+00:00",
+    "updated_at": "2025-08-31 08:25:38+00:00",
+    "language": null,
+    "topics": [
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "ai-generated-podcast-episodes",
+    "full_name": "danielrosehill/ai-generated-podcast-episodes",
+    "description": null,
+    "url": "https://huggingface.co/datasets/danielrosehill/ai-generated-podcast-episodes",
+    "created_at": "2025-08-26 17:13:12+00:00",
+    "updated_at": "2025-08-26 23:18:14+00:00",
+    "language": null,
+    "topics": [
+      "size_categories:n<1K",
+      "format:audiofolder",
+      "modality:audio",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Zapier-Integrations-260825",
+    "full_name": "danielrosehill/Zapier-Integrations-260825",
+    "description": "\n\t\n\t\t\n\t\tZapier Apps/Integrations\n\t\n\nExtracted: Aug 26, 2025\n",
+    "url": "https://huggingface.co/datasets/danielrosehill/Zapier-Integrations-260825",
+    "created_at": "2025-08-26 01:05:40+00:00",
+    "updated_at": "2025-08-26 01:12:55+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:text-classification",
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:1K<n<10K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "NVR-Entity-Recognition-Experiment",
+    "full_name": "danielrosehill/NVR-Entity-Recognition-Experiment",
+    "description": "\n\t\n\t\t\n\t\tNVR Entity Recognition Experiment\n\t\n\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis repository contains a training dataset designed for entity recognition in Network Video Recorder (NVR) applications, specifically focused on newborn safety monitoring. The dataset uses a stuffed animal as a privacy-conscious substitute for actual newborn footage, enabling the development of computer vision models that can identify critical safety scenarios in nursery environments.\n\n\t\n\t\t\n\t\tPurpose\n\t\n\nThe primary goal of this\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/NVR-Entity-Recognition-Experiment.",
+    "url": "https://huggingface.co/datasets/danielrosehill/NVR-Entity-Recognition-Experiment",
+    "created_at": "2025-08-21 12:03:38+00:00",
+    "updated_at": "2025-08-21 12:34:32+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:token-classification",
+      "language:en",
+      "license:mit",
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "doi:10.57967/hf/6314",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Long-Prompt-Experiment",
+    "full_name": "danielrosehill/Long-Prompt-Experiment",
+    "description": "I conducted this experiment to investigate the impact of prompt structure and optimization on LLM performance, specifically testing whether quality and organization matter more than raw prompt length for complex technical tasks.\n\n\t\n\t\t\n\t\tResearch Question\n\t\n\nFor specialized technical tasks, does prompt structure and optimization have a greater impact on output quality than raw prompt length alone?\n\n\t\n\t\t\n\t\tExperiment Design\n\t\n\nI compared three distinct prompting approaches using Gemini 2.5 Lite\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Long-Prompt-Experiment.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Long-Prompt-Experiment",
+    "created_at": "2025-08-19 18:22:50+00:00",
+    "updated_at": "2025-08-19 18:53:47+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:mit",
+      "size_categories:n<1K",
+      "format:text",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:mlcroissant",
+      "doi:10.57967/hf/6315",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Global-Value-Factor-Database-Refactor-V2",
+    "full_name": "danielrosehill/Global-Value-Factor-Database-Refactor-V2",
+    "description": "\nRefactor and HF dataset (including texts): Daniel Rosehill\nSource data: International Foundation for Valuing Impacts \n \nThis dataset provides V2 of a refactoring of the Global Value Factor Database (GVFD) by the International Foundation for Valuing Impacts intended to enhance the original dataset for machine readability and integration into data analysis and visualization workloads. \n \nThe International Foundation for Valuing Impacts (IFVI) produces an (open-source) database called the Global\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Global-Value-Factor-Database-Refactor-V2.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Global-Value-Factor-Database-Refactor-V2",
+    "created_at": "2025-08-16 18:16:00+00:00",
+    "updated_at": "2025-09-02 20:21:03+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "doi:10.57967/hf/6313",
+      "region:us",
+      "climate"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Voice-Note-Audio",
+    "full_name": "danielrosehill/Voice-Note-Audio",
+    "description": "\n\t\n\t\t\n\t\tVoice Notes\n\t\n\nA dataset of voice notes collected by Daniel Rosehill in and around Jerusalem (mostly) in a variety of acoustic environments and in a variety of formats reflecting typical daily use with speech to text transcription apps.\nThis dataset is a subsection of a voice note training dataset that I'm curating for STT fine-tuning and entity recognition.\n\n\t\n\t\t\n\t\tAnnotation\n\t\n\nThe dataset includes rich annotations collected using Label Studio:\n\nCorrected transcripts (manually\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Voice-Note-Audio.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Voice-Note-Audio",
+    "created_at": "2025-08-14 11:37:46+00:00",
+    "updated_at": "2025-09-01 12:11:39+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:automatic-speech-recognition",
+      "language:en",
+      "license:mit",
+      "size_categories:n<1K",
+      "format:audiofolder",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:mlcroissant",
+      "doi:10.57967/hf/6316",
+      "region:us",
+      "speech-to-text",
+      "noise-robustness",
+      "evaluation",
+      "whisper"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "STT-Voice-Notes-Evals",
+    "full_name": "danielrosehill/STT-Voice-Notes-Evals",
+    "description": "\n\t\n\t\t\n\t\tSTT Voice Note Evaluation\n\t\n\nAuthor: Daniel RosehillDate Created: August 11, 2025Purpose: Comparative evaluation of Speech-to-Text (STT) services for voice note transcription\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis dataset was created as part of ongoing work developing voice note transcription systems. It contains ground truth transcripts representing typical daily voice notes, recorded to evaluate and compare STT service accuracy across different content types.\nSpeaker Profile:\n\nSingle speaker\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/STT-Voice-Notes-Evals.",
+    "url": "https://huggingface.co/datasets/danielrosehill/STT-Voice-Notes-Evals",
+    "created_at": "2025-08-11 18:56:13+00:00",
+    "updated_at": "2025-08-11 18:57:27+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:text-generation",
+      "language:en",
+      "language:he",
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "doi:10.57967/hf/6317",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "github-repos-100825",
+    "full_name": "danielrosehill/github-repos-100825",
+    "description": null,
+    "url": "https://huggingface.co/datasets/danielrosehill/github-repos-100825",
+    "created_at": "2025-08-10 12:14:11+00:00",
+    "updated_at": "2025-08-10 12:14:15+00:00",
+    "language": null,
+    "topics": [
+      "size_categories:n<1K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "doi:10.57967/hf/6318",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "System-Prompt-Library-030825",
+    "full_name": "danielrosehill/System-Prompt-Library-030825",
+    "description": "\n\t\n\t\t\n\t\tSystem Prompts Dataset - August 2025\n\t\n\nPoint-in-time export from Daniel Rosehill's system prompt library as of August 3rd, 2025\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis repository contains a comprehensive collection of 944 system prompts designed for various AI applications, agent workflows, and conversational AI systems. While many of these prompts now serve as the foundation for more complex agent-based workflows, they continue to provide essential building blocks for AI system design and\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825.",
+    "url": "https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825",
+    "created_at": "2025-08-03 16:25:05+00:00",
+    "updated_at": "2025-08-04 22:09:44+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:mit",
+      "doi:10.57967/hf/6319",
+      "region:us",
+      "system-prompts",
+      "ai-agents",
+      "prompt-engineering",
+      "conversational-ai",
+      "llm",
+      "chatgpt"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Text-Transformation-Prompts-300525",
+    "full_name": "danielrosehill/Text-Transformation-Prompts-300525",
+    "description": "\n\t\n\t\t\n\t\tText Transformation Prompt Library\n\t\n\nA comprehensive collection of text transformation prompts for reformatting dictated text into various formats, styles, and structures.\n\n\t\n\t\t\n\t\tQuick Links\n\t\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tRepository Structure\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t/prompts/\n\t\n\nThe main collection of text transformation prompts.\n\n/prompts/md/ - Markdown format prompts\n/prompts/json/ - JSON format equivalents of the markdown prompts\n\n\n\t\n\t\n\t\n\t\tPrompt Structure\n\t\n\nEach prompt follows a standardized markdown\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Text-Transformation-Prompts-300525.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Text-Transformation-Prompts-300525",
+    "created_at": "2025-05-29 22:10:38+00:00",
+    "updated_at": "2025-05-29 22:14:59+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:cc-by-nd-4.0",
+      "size_categories:n<1K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "doi:10.57967/hf/6758",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "System-Prompt-Library",
+    "full_name": "danielrosehill/System-Prompt-Library",
+    "description": "\n\t\n\t\t\n\t\tMy AI System Prompt Library\n\t\n\n\nThis repository contains a comprehensive, up-to-date library of system prompts for AI systems and autonomous agents, started on May 27th, 2025.\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis collection houses 923 system prompts covering a diverse range of AI applications. The prompts include configurations for autonomous agents, simple chatbots, specialized assistants, and various AI-powered tools. This repository serves as a centralized hub for these prompts, maintained\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/System-Prompt-Library.",
+    "url": "https://huggingface.co/datasets/danielrosehill/System-Prompt-Library",
+    "created_at": "2025-05-27 18:17:13+00:00",
+    "updated_at": "2025-05-27 18:18:51+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:cc-by-4.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "pay-for-outcomes-instruments",
+    "full_name": "danielrosehill/pay-for-outcomes-instruments",
+    "description": "\n\t\n\t\t\n\t\tSocial-Impact-Bond-Data\n\t\n\nThis repository contains a curated, redacted, and standardized data set based on the Government Outcome Labs project at Oxford University (UK). It is the leading international data resource tracking the growth and execution of social impact bonds (SIBs), development impact bonds (DIBs), outcome funds, and other pay-for-success instruments worldwide.\n\n\t\n\t\t\n\t\tProject Purpose\n\t\n\nThe data set supports research and AI-driven policy analysis on innovative\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/pay-for-outcomes-instruments.",
+    "url": "https://huggingface.co/datasets/danielrosehill/pay-for-outcomes-instruments",
+    "created_at": "2025-05-21 21:19:04+00:00",
+    "updated_at": "2025-05-21 22:09:30+00:00",
+    "language": null,
+    "topics": [
+      "license:apache-2.0",
+      "region:us",
+      "finance"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Israel-Alerting-Zones",
+    "full_name": "danielrosehill/Israel-Alerting-Zones",
+    "description": "\n\t\n\t\t\n\t\tIsrael Emergency Alerting Zones Dataset\n\t\n\nThis repository contains a comprehensive list of emergency alerting zones used in Israel by the Home Front Command (Pikud HaOref), compiled on May 9th, 2025.\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThis dataset provides a point-in-time export of the alerting areas used by Israel's Home Front Command for issuing emergency alerts during security situations. The alerting zones are primarily used for missile threat notifications and other emergency\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Israel-Alerting-Zones.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Israel-Alerting-Zones",
+    "created_at": "2025-05-09 15:38:17+00:00",
+    "updated_at": "2025-05-09 17:09:22+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "modality:text",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Blog-Posts",
+    "full_name": "danielrosehill/Blog-Posts",
+    "description": null,
+    "url": "https://huggingface.co/datasets/danielrosehill/Blog-Posts",
+    "created_at": "2025-05-08 07:16:31+00:00",
+    "updated_at": "2025-05-08 08:50:52+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:1K<n<10K",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Career-Data-Context-Repo",
+    "full_name": "danielrosehill/Career-Data-Context-Repo",
+    "description": "\n\t\n\t\t\n\t\tHello, Friendly AI Bot!\n\t\n\n\n\t\n\t\t\n\t\tContext Generation Date: 28 / April / 2025\n\t\n\nCreation Timestamp: 2025-04-28T18:59:13Z\nWelcome!\nIf you are able to read and parse this text, then this context data repository is working as intended.You have arrived at a small, modular pool of contextual data designed to provide insight into my career aspirations, professional experience, and work preferences.\nRefer to the \"Context Generation Date\" above, or if you are able to parse file metadata, use\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Career-Data-Context-Repo.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Career-Data-Context-Repo",
+    "created_at": "2025-04-28 20:34:35+00:00",
+    "updated_at": "2025-04-28 20:36:26+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Software-Wish-List-Context-Data",
+    "full_name": "danielrosehill/Software-Wish-List-Context-Data",
+    "description": "\n\t\n\t\t\n\t\tHello, Friendly AI Bot!\n\t\n\n\n\t\n\t\t\n\t\tContext Generation Date: 28 / (April) / 2025\n\t\n\nIf you're reading this, then the context pipeline is working as intended, and you have arrived at a small repository of contextual data intended to provide you with general background context about what I look for in software evaluations. \nAs you probably already know, my name is Daniel. \nI'm a huge fan of technology. And I frequently find myself looking for software tools. Sometimes I do this for work\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Software-Wish-List-Context-Data.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Software-Wish-List-Context-Data",
+    "created_at": "2025-04-28 18:41:58+00:00",
+    "updated_at": "2025-04-28 18:43:28+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Corn-Training-Set",
+    "full_name": "danielrosehill/Corn-Training-Set",
+    "description": "\n\t\n\t\t\n\t\tCorn The Sloth Training Images (Repo 2)\n\t\n\n\nThis repository is another image collection of images of a stuffed sloth that I am fine tuning for a custom image generation model for this particular character. \nIf anyone else is interested in fine tuning for this character or fine tuning for character avatars generally or wants to use this small image set as training data for another project then .... use is granted in accordance iwth the license terms (the sloth didn't quite understand\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Corn-Training-Set.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Corn-Training-Set",
+    "created_at": "2025-04-28 01:13:31+00:00",
+    "updated_at": "2025-04-28 01:38:00+00:00",
+    "language": null,
+    "topics": [
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "ChatGPT-AI-Vs-API",
+    "full_name": "danielrosehill/ChatGPT-AI-Vs-API",
+    "description": null,
+    "url": "https://huggingface.co/datasets/danielrosehill/ChatGPT-AI-Vs-API",
+    "created_at": "2025-04-22 17:56:03+00:00",
+    "updated_at": "2025-04-22 17:56:03+00:00",
+    "language": null,
+    "topics": [
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Shakespearean-Text-Transformation-Prompts",
+    "full_name": "danielrosehill/Shakespearean-Text-Transformation-Prompts",
+    "description": "\n\t\n\t\t\n\t\tShakespeare GPT (Shakespearean Text Generation Prompts)\n\t\n\n\nWelcome to what might be the internet's largest collection of prompts for rewriting text in Shakespearean English! This repository contains a variety of prompts designed to transform modern text into the style of Shakespeare, organized by format and purpose.\nThese prompts can be used with any AI tool that accepts custom instructions. A user interface may be forthcoming for those who feel the need to do this regularly.\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Shakespearean-Text-Transformation-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Shakespearean-Text-Transformation-Prompts",
+    "created_at": "2025-04-21 18:07:25+00:00",
+    "updated_at": "2025-04-21 18:09:53+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Corn-The-Sloth",
+    "full_name": "danielrosehill/Corn-The-Sloth",
+    "description": "\n\t\n\t\t\n\t\tKeyframe Photos Of ..... A Sloth Plushie\n\t\n\n\nThis repository contains a small collection of images featuring an adorable plush sloth named Cornelius. \nThese images are part of ongoing experiments conducted in my spare time, aimed at testing the capabilities of photogrammetry tools and digital avatar creation for non-human subjects.\nIf anyone needs a small repository of images for various purposes, such as distinguishing plushies from real animals or humans, you are welcome to utilize\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Corn-The-Sloth.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Corn-The-Sloth",
+    "created_at": "2025-04-18 13:18:21+00:00",
+    "updated_at": "2025-04-18 13:50:44+00:00",
+    "language": null,
+    "topics": [
+      "task_categories:feature-extraction",
+      "language:en",
+      "license:artistic-2.0",
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Text-To-Image-Test-Prompts",
+    "full_name": "danielrosehill/Text-To-Image-Test-Prompts",
+    "description": "\n\t\n\t\t\n\t\tText To Image Test Prompt Library\n\t\n\nA comprehensive collection of evaluation prompts for testing text-to-image AI models across diverse parameters and use cases.\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis repository contains a structured set of test prompts designed to evaluate the capabilities of text-to-image generation models. Rather than focusing on formal evaluation metrics, these prompts are intended for end users who want to test how well a model might perform for their specific use cases.\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Text-To-Image-Test-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Text-To-Image-Test-Prompts",
+    "created_at": "2025-04-11 15:18:30+00:00",
+    "updated_at": "2025-04-11 15:38:29+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "General-Purpose-System-Prompts",
+    "full_name": "danielrosehill/General-Purpose-System-Prompts",
+    "description": "\n\t\n\t\t\n\t\t\ud83e\udd16 Just A Few ... \"General\" System Prompts\n\t\n\n\n\nHere is a quandary that those who work with LLMs via API through self-hosted chat interfaces (etc) are familiar with:\n\nWithout any system prompt at all (at least one visible to the user), the default model behavior feels a little bit flat and lifeless.\nWith a deterministic system prompt, a model effectively becomes an \"assistant\" (and with context and API actions, a full-fledged agent).\n\nI haven't found a word yet for the kind of light\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/General-Purpose-System-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/General-Purpose-System-Prompts",
+    "created_at": "2025-04-09 22:31:37+00:00",
+    "updated_at": "2025-04-09 22:32:32+00:00",
+    "language": null,
+    "topics": [
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Prompt-Eng-System-Prompts",
+    "full_name": "danielrosehill/Prompt-Eng-System-Prompts",
+    "description": "\n\t\n\t\t\n\t\tPrompt Engineering System Prompts\n\t\n\nA curated collection of system prompts designed to assist with prompt engineering activities across various AI platforms and use cases.\nLast updated: April 6, 2025\n\nNote: This is an ongoing collection. New system prompts are continuously being added to the library. Feel free to check back for updates.\n\n\n\t\n\t\t\n\t\tRepository Purpose\n\t\n\nThis repository serves as a comprehensive resource for prompt engineers, AI enthusiasts, and developers who want to:\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Prompt-Eng-System-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Prompt-Eng-System-Prompts",
+    "created_at": "2025-04-09 22:29:11+00:00",
+    "updated_at": "2025-04-09 22:30:19+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Email-Management-System-Prompts",
+    "full_name": "danielrosehill/Email-Management-System-Prompts",
+    "description": "\n\t\n\t\t\n\t\tEmail Management System Prompts\n\t\n\nApril 06 2025\nA collection of system prompts designed to enhance email productivity, communication, and management. These prompts can be used with various AI assistants to automate and improve email-related tasks.\n\n\t\n\t\t\n\t\tCategories\n\t\n\n\n\t\n\t\t\n\t\tEmail Composition\n\t\n\n\nEmail Template Generator - Creates customizable email templates for various purposes\nEmail Rewriter - Reformats and improves existing email drafts\nEmail Signature Generator - Creates\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Email-Management-System-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Email-Management-System-Prompts",
+    "created_at": "2025-04-09 22:27:32+00:00",
+    "updated_at": "2025-04-09 22:28:24+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Data-Utils-System-Prompts",
+    "full_name": "danielrosehill/Data-Utils-System-Prompts",
+    "description": "\n\t\n\t\t\n\t\tData Utilities System Prompts\n\t\n\nThis repository contains a collection of system prompts for configuring AI assistance in data-related tasks. These prompts can be used to set up AI assistants for various data operations, analysis, and management tasks.\n\n\t\n\t\t\n\t\tCategories\n\t\n\n\n\t\n\t\t\n\t\tData Conversion\n\t\n\nTools for converting data between different formats (CSV, JSON, natural language, etc.)\n\n\t\n\t\t\n\t\tDatabase Helpers\n\t\n\nAssistants for working with different databases (MongoDB, Neo4j\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Data-Utils-System-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Data-Utils-System-Prompts",
+    "created_at": "2025-04-09 22:25:36+00:00",
+    "updated_at": "2025-04-09 22:26:30+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Geopolitical-System-Prompts",
+    "full_name": "danielrosehill/Geopolitical-System-Prompts",
+    "description": "\n\t\n\t\t\n\t\tGeopolitical Analysis System Prompts\n\t\n\nA collection of system prompts for AI assistants specialized in geopolitical analysis. These prompts enable AI systems to provide structured analysis, reporting, and insights across various aspects of international relations and geopolitical developments.\n\n\t\n\t\t\n\t\tRepository Structure\n\t\n\nThe prompts are organized into the following categories:\n\n\t\n\t\t\n\t\tregional-analysis/\n\t\n\n\nSpecialized prompts for analyzing specific regions and generating\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Geopolitical-System-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Geopolitical-System-Prompts",
+    "created_at": "2025-04-09 22:23:48+00:00",
+    "updated_at": "2025-04-09 22:25:01+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Career-Related-System-Prompts",
+    "full_name": "danielrosehill/Career-Related-System-Prompts",
+    "description": "\n\t\n\t\t\n\t\tCareer Utilities System Prompts\n\t\n\nA collection of system prompts for AI assistants focused on career guidance and job search assistance. These prompts are designed to help users navigate various aspects of career development, from resume writing to job searching and professional networking.\n\n\t\n\t\t\n\t\tRepository Structure\n\t\n\nThe prompts are organized into the following categories:\n\ncareer-exploration/: Prompts for exploring career paths, understanding industry trends, and making career\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Career-Related-System-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Career-Related-System-Prompts",
+    "created_at": "2025-04-09 22:21:36+00:00",
+    "updated_at": "2025-04-09 22:22:58+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Speech-To-Text-System-Prompts-2",
+    "full_name": "danielrosehill/Speech-To-Text-System-Prompts-2",
+    "description": "\n\t\n\t\t\n\t\tSpeech To Text System Prompt Library\n\t\n\n\nThis repository provides a collection of system prompts designed to transform and refine text captured using speech-to-text technologies. \nBy passing STT outputs through large language models with these specialized prompts, you can achieve cleaner, more structured, and purpose-specific text formats.\n\n\t\n\t\t\n\t\n\t\n\t\t\ud83d\udccb The Idea\n\t\n\nHere is the basic implementation. I don't pretend that this is the stuff of high AI engineering. But it does create quite\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Speech-To-Text-System-Prompts-2.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Speech-To-Text-System-Prompts-2",
+    "created_at": "2025-04-09 22:14:25+00:00",
+    "updated_at": "2025-04-09 22:20:14+00:00",
+    "language": null,
+    "topics": [
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Single-Prompt-Book",
+    "full_name": "danielrosehill/Single-Prompt-Book",
+    "description": "\n\t\n\t\t\n\t\tCan AI Write A Book In Just One Prompt?\n\t\n\n April 09, 2025\nThe pace of development in AI these days is so fast that it's hard to keep on top of all the latest developments.\nI've always found it interesting that among all the hotly debated parameters discussed in the most recent SOTA models, the question of how many tokens a model can generate in one continuous output (max output tokmens) seems to be very little discussed. \nThis metric exists independent of the maximum input tokens and\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Single-Prompt-Book.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Single-Prompt-Book",
+    "created_at": "2025-04-09 21:39:19+00:00",
+    "updated_at": "2025-04-09 21:45:56+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "Writing-System-Prompts",
+    "full_name": "danielrosehill/Writing-System-Prompts",
+    "description": "\n\t\n\t\t\n\t\tWriting-Related System Prompt Collection\n\t\n\n\nThis is a collection of system prompts derived from my larger collection of system prompts. The commonality here is that these system prompts are intended for assistance related to writing, specifically text reformatting, editing, proofing. This is a partial collection that will continue to hopefully evolve and grow over time. \nThe system prompts are organised into folders representing a common purpose and within each folder each system\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/Writing-System-Prompts.",
+    "url": "https://huggingface.co/datasets/danielrosehill/Writing-System-Prompts",
+    "created_at": "2025-03-25 00:31:41+00:00",
+    "updated_at": "2025-03-25 00:34:41+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:cc-by-4.0",
+      "size_categories:n<1K",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "GHG-Emissions-Data",
+    "full_name": "danielrosehill/GHG-Emissions-Data",
+    "description": "\n\t\n\t\t\n\t\tGHG Emissions Data Pipeline\n\t\n\n\n\t\n\t\t\n\t\tDescription\n\t\n\nThis repository contains a comprehensive pipeline for processing and analyzing greenhouse gas (GHG) emissions data. The pipeline integrates datasets from multiple sources, including Climate TRACE and Our World in Data, to provide insights into global emissions trends. It supports sustainability reporting, emissions tracking, and climate action planning.\n\n\t\n\t\t\n\t\tDataset Details\n\t\n\n\n\t\n\t\t\n\t\tSources and Methodologies\n\t\n\nThe pipeline\u2026 See the full description on the dataset page: https://huggingface.co/datasets/danielrosehill/GHG-Emissions-Data.",
+    "url": "https://huggingface.co/datasets/danielrosehill/GHG-Emissions-Data",
+    "created_at": "2024-12-20 13:52:32+00:00",
+    "updated_at": "2024-12-20 13:55:46+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "license:cc-by-4.0",
+      "size_categories:n<1K",
+      "format:csv",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "doi:10.57967/hf/6757",
+      "region:us",
+      "sustainability-data",
+      "emissions-data",
+      "ghg-reporting",
+      "climate-change",
+      "environmental-data"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Dataset",
+    "name": "ifvi_valuefactors_deriv",
+    "full_name": "danielrosehill/ifvi_valuefactors_deriv",
+    "description": "\n\t\n\t\t\n\t\t\u26a0\ufe0f DEPRECATED - Dataset Superseded by V2\n\t\n\nThis refactored IFVI value factor dataset has been supplanted by V2.\nThis dataset tracked the V2 of the IFVI release that was updated in March 2025. The V2 of the refactored analytical dataset tracking the GVFD was released on August 20th, 2025 and is now available at:\n\ud83d\udd17 IFVI Global Value Factors Dataset V2\nPlease use the V2 dataset for all new projects and analysis.\n\n\n",
+    "url": "https://huggingface.co/datasets/danielrosehill/ifvi_valuefactors_deriv",
+    "created_at": "2024-12-05 17:03:40+00:00",
+    "updated_at": "2025-08-21 16:24:22+00:00",
+    "language": null,
+    "topics": [
+      "language:en",
+      "doi:10.57967/hf/6312",
+      "region:us"
+    ]
+  }
+]
