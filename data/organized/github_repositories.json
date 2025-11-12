@@ -2,14 +2,1298 @@
   {
     "source": "GitHub",
     "type": "Repository",
+    "name": "A-Better-Jobs-Platform-Notes",
+    "full_name": "danielrosehill/A-Better-Jobs-Platform-Notes",
+    "description": "Notes/thoughts on what I think could be a really fertile AI use-case",
+    "url": "https://github.com/danielrosehill/A-Better-Jobs-Platform-Notes",
+    "created_at": "2025-11-11 12:48:37+00:00",
+    "updated_at": "2025-11-11 13:25:45+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Voice-Typing-Ubuntu-App",
+    "full_name": "danielrosehill/Voice-Typing-Ubuntu-App",
+    "description": "WIP to try to create a good STT utility with cloud STT APIs",
+    "url": "https://github.com/danielrosehill/Voice-Typing-Ubuntu-App",
+    "created_at": "2025-11-11 12:46:48+00:00",
+    "updated_at": "2025-11-11 12:46:56+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Media-Monitor",
+    "full_name": "danielrosehill/Claude-Media-Monitor",
+    "description": "Slash command for fetching news articles for human analysis",
+    "url": "https://github.com/danielrosehill/Claude-Media-Monitor",
+    "created_at": "2025-11-10 15:15:15+00:00",
+    "updated_at": "2025-11-10 16:06:28+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "media-monitoring",
+      "pr"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "audio-transcriber-mcp",
+    "full_name": "danielrosehill/audio-transcriber-mcp",
+    "description": "A MCP server that provides audio transcription capabilities using OpenAI's Whisper API",
+    "url": "https://github.com/danielrosehill/audio-transcriber-mcp",
+    "created_at": "2025-11-09 22:48:42+00:00",
+    "updated_at": "2025-11-09 22:51:06+00:00",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "claude-code-marketplace",
+    "full_name": "danielrosehill/claude-code-marketplace",
+    "description": null,
+    "url": "https://github.com/danielrosehill/claude-code-marketplace",
+    "created_at": "2025-11-09 20:53:32+00:00",
+    "updated_at": "2025-11-09 20:56:17+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "On-MCP-And-Consolidation",
+    "full_name": "danielrosehill/On-MCP-And-Consolidation",
+    "description": "Quick snapshot / notes on MCP consolidation approaches",
+    "url": "https://github.com/danielrosehill/On-MCP-And-Consolidation",
+    "created_at": "2025-11-09 17:09:35+00:00",
+    "updated_at": "2025-11-11 20:31:00+00:00",
+    "language": null,
+    "topics": [
+      "blog",
+      "mcp",
+      "notes",
+      "resource",
+      "resource-list"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-Bash-Aliases",
+    "full_name": "danielrosehill/Claude-Code-Bash-Aliases",
+    "description": "A few bash aliases to support efficient Claude Code use",
+    "url": "https://github.com/danielrosehill/Claude-Code-Bash-Aliases",
+    "created_at": "2025-11-09 16:04:47+00:00",
+    "updated_at": "2025-11-09 16:31:30+00:00",
+    "language": null,
+    "topics": [
+      "bash-aliases",
+      "claude-code"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "MCP-Ecosystem",
+    "full_name": "danielrosehill/MCP-Ecosystem",
+    "description": "Quick compilation of resources for those interested in MCP",
+    "url": "https://github.com/danielrosehill/MCP-Ecosystem",
+    "created_at": "2025-11-09 15:43:25+00:00",
+    "updated_at": "2025-11-09 15:43:30+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Linux-Voice-Typing-App-Notes",
+    "full_name": "danielrosehill/Linux-Voice-Typing-App-Notes",
+    "description": "Planning notes for a tool I've been working on for a while!",
+    "url": "https://github.com/danielrosehill/Linux-Voice-Typing-App-Notes",
+    "created_at": "2025-11-09 14:11:15+00:00",
+    "updated_at": "2025-11-09 23:27:23+00:00",
+    "language": null,
+    "topics": [
+      "planning-notes",
+      "voice-typing"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-MCP-Guidelines",
+    "full_name": "danielrosehill/Claude-MCP-Guidelines",
+    "description": "A home folder CLAUDE.md snippet to provide guidance on MCP selection",
+    "url": "https://github.com/danielrosehill/Claude-MCP-Guidelines",
+    "created_at": "2025-11-09 13:36:21+00:00",
+    "updated_at": "2025-11-09 14:02:21+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-Plugins",
+    "full_name": "danielrosehill/Claude-Code-Plugins",
+    "description": "Collection of Claude Code Plugins",
+    "url": "https://github.com/danielrosehill/Claude-Code-Plugins",
+    "created_at": "2025-11-09 00:30:57+00:00",
+    "updated_at": "2025-11-09 22:02:25+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "End-Of-Day-Worklog",
+    "full_name": "danielrosehill/End-Of-Day-Worklog",
+    "description": "Agent model for taking daily snapshots of work progress",
+    "url": "https://github.com/danielrosehill/End-Of-Day-Worklog",
+    "created_at": "2025-11-08 21:31:18+00:00",
+    "updated_at": "2025-11-08 21:31:24+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "OR-Models-With-Tools-0811",
+    "full_name": "danielrosehill/OR-Models-With-Tools-0811",
+    "description": "Price comoparison and list",
+    "url": "https://github.com/danielrosehill/OR-Models-With-Tools-0811",
+    "created_at": "2025-11-08 16:03:21+00:00",
+    "updated_at": "2025-11-08 23:07:25+00:00",
+    "language": "Python",
+    "topics": [
+      "api-pricing"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Homebox-MCP-Server",
+    "full_name": "danielrosehill/Homebox-MCP-Server",
+    "description": "MCP for Homebox with support for LAN and WAN URLs",
+    "url": "https://github.com/danielrosehill/Homebox-MCP-Server",
+    "created_at": "2025-11-08 08:12:49+00:00",
+    "updated_at": "2025-11-08 19:36:25+00:00",
+    "language": "JavaScript",
+    "topics": [
+      "homebox",
+      "mcp",
+      "poc",
+      "wip"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Think-Tank",
+    "full_name": "danielrosehill/Claude-Think-Tank",
+    "description": "Model repository for a think tank composed of AI agents (with Claude Code providing the framework) focused on assisting a user with research and ideating policy proposals",
+    "url": "https://github.com/danielrosehill/Claude-Think-Tank",
+    "created_at": "2025-11-07 14:51:32+00:00",
+    "updated_at": "2025-11-07 16:09:46+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-ADHD-Research-Workspace",
+    "full_name": "danielrosehill/Claude-ADHD-Research-Workspace",
+    "description": "Claude research notebook into ADHD drug access - an important topic!",
+    "url": "https://github.com/danielrosehill/Claude-ADHD-Research-Workspace",
+    "created_at": "2025-11-07 11:53:26+00:00",
+    "updated_at": "2025-11-07 14:53:33+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "drug-policy"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Budget-Workspace-Template",
+    "full_name": "danielrosehill/Claude-Budget-Workspace-Template",
+    "description": "Template for using Claude for household budget management",
+    "url": "https://github.com/danielrosehill/Claude-Budget-Workspace-Template",
+    "created_at": "2025-11-07 11:37:28+00:00",
+    "updated_at": "2025-11-07 14:46:13+00:00",
+    "language": null,
+    "topics": [
+      "budgeting",
+      "claude-code"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Diary-Planner-Template",
+    "full_name": "danielrosehill/Claude-Diary-Planner-Template",
+    "description": "Template Claude Code repo for workfow and time management planning",
+    "url": "https://github.com/danielrosehill/Claude-Diary-Planner-Template",
+    "created_at": "2025-11-07 10:55:01+00:00",
+    "updated_at": "2025-11-07 11:51:51+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "claude-spaces",
+      "claude-workspace"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Spec-Starter",
+    "full_name": "danielrosehill/Claude-Spec-Starter",
+    "description": "Pattern for AI assisted development starting from one (long) user prompt",
+    "url": "https://github.com/danielrosehill/Claude-Spec-Starter",
+    "created_at": "2025-11-06 17:43:10+00:00",
+    "updated_at": "2025-11-06 18:37:58+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude",
+      "claude-code",
+      "spec-driven-development"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Stack-Research-Workspace",
+    "full_name": "danielrosehill/Claude-Stack-Research-Workspace",
+    "description": null,
+    "url": "https://github.com/danielrosehill/Claude-Stack-Research-Workspace",
+    "created_at": "2025-11-03 13:40:58+00:00",
+    "updated_at": "2025-11-03 13:41:48+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "stack-research",
+      "workspaces"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Voice-Training-Data-Creator",
+    "full_name": "danielrosehill/Voice-Training-Data-Creator",
+    "description": "GUI to facilitate capturing voice data for TTS / voice clone training with LLM synthetic text generation and saving logic (Ubuntu Linux)",
+    "url": "https://github.com/danielrosehill/Voice-Training-Data-Creator",
+    "created_at": "2025-11-03 11:00:52+00:00",
+    "updated_at": "2025-11-03 19:26:54+00:00",
+    "language": "Python",
+    "topics": [
+      "ai-training",
+      "fine-tuning",
+      "stt",
+      "tts"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Voicepad",
+    "full_name": "danielrosehill/Voicepad",
+    "description": "Planning notes for a macropad for STT users",
+    "url": "https://github.com/danielrosehill/Voicepad",
+    "created_at": "2025-11-03 10:23:36+00:00",
+    "updated_at": "2025-11-03 11:26:15+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Therapy-Tracker",
+    "full_name": "danielrosehill/Claude-Therapy-Tracker",
+    "description": "Model/template for using Claude Code for therapy tracking (patients)",
+    "url": "https://github.com/danielrosehill/Claude-Therapy-Tracker",
+    "created_at": "2025-11-03 09:42:59+00:00",
+    "updated_at": "2025-11-03 11:29:41+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude",
+      "claude-code",
+      "mental-health"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Clarity",
+    "full_name": "danielrosehill/Clarity",
+    "description": "An attempt at vibe-coding a personal AI interface for daily use",
+    "url": "https://github.com/danielrosehill/Clarity",
+    "created_at": "2025-11-02 11:52:57+00:00",
+    "updated_at": "2025-11-02 18:21:12+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Deep-Research-Template",
+    "full_name": "danielrosehill/Claude-Deep-Research-Template",
+    "description": "Template for Claude Code deep research pattern",
+    "url": "https://github.com/danielrosehill/Claude-Deep-Research-Template",
+    "created_at": "2025-11-01 22:29:54+00:00",
+    "updated_at": "2025-11-01 22:44:19+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "deep-research"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Server-Mgmt-Template-SBCs",
+    "full_name": "danielrosehill/Claude-Server-Mgmt-Template-SBCs",
+    "description": "Version of Claude Code server manager template for single board computers (SBCs)",
+    "url": "https://github.com/danielrosehill/Claude-Server-Mgmt-Template-SBCs",
+    "created_at": "2025-11-01 22:16:47+00:00",
+    "updated_at": "2025-11-01 22:24:49+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "templates"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Proxmox-Manager-Template",
+    "full_name": "danielrosehill/Claude-Proxmox-Manager-Template",
+    "description": "Claude Code server manager template adapter for Proxmox environment",
+    "url": "https://github.com/danielrosehill/Claude-Proxmox-Manager-Template",
+    "created_at": "2025-11-01 22:14:09+00:00",
+    "updated_at": "2025-11-01 22:19:37+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "templates"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Home-Assistant-Manager-Template",
+    "full_name": "danielrosehill/Claude-Home-Assistant-Manager-Template",
+    "description": "Template for a Claude Code config at the base of a HAOS filesystem",
+    "url": "https://github.com/danielrosehill/Claude-Home-Assistant-Manager-Template",
+    "created_at": "2025-11-01 22:02:04+00:00",
+    "updated_at": "2025-11-08 18:47:57+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "home-assistant"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Server-Manager-Template",
+    "full_name": "danielrosehill/Claude-Server-Manager-Template",
+    "description": "Template repository for creating Claude Code structured workspace in a remote server environment",
+    "url": "https://github.com/danielrosehill/Claude-Server-Manager-Template",
+    "created_at": "2025-11-01 20:58:06+00:00",
+    "updated_at": "2025-11-01 21:54:08+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude",
+      "claude-code",
+      "templates"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Nano-Banana-Desktop",
+    "full_name": "danielrosehill/Nano-Banana-Desktop",
+    "description": "Vibe coded starter for a Nano Banana inpainting utility  / image editor (Gemini API)",
+    "url": "https://github.com/danielrosehill/Nano-Banana-Desktop",
+    "created_at": "2025-11-01 16:29:45+00:00",
+    "updated_at": "2025-11-01 18:24:58+00:00",
+    "language": "Python",
+    "topics": [
+      "ai-image-editing",
+      "gemini-api",
+      "inpainting",
+      "linux-desktop",
+      "nano-banana"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Image-To-Image-Prompts",
+    "full_name": "danielrosehill/Image-To-Image-Prompts",
+    "description": "Loose collection of image to image prompts for common transformations",
+    "url": "https://github.com/danielrosehill/Image-To-Image-Prompts",
+    "created_at": "2025-11-01 16:09:22+00:00",
+    "updated_at": "2025-11-01 17:36:01+00:00",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "AI-Human-Attribution-Adder",
+    "full_name": "danielrosehill/AI-Human-Attribution-Adder",
+    "description": "Slash command for AI agents to note who did what!",
+    "url": "https://github.com/danielrosehill/AI-Human-Attribution-Adder",
+    "created_at": "2025-10-31 17:21:56+00:00",
+    "updated_at": "2025-10-31 17:29:41+00:00",
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "readme",
+      "transparency"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "anthropic-skills-notes",
+    "full_name": "danielrosehill/anthropic-skills-notes",
+    "description": "Public repository for Skills",
+    "url": "https://github.com/danielrosehill/anthropic-skills-notes",
+    "created_at": "2025-10-31 15:40:15+00:00",
+    "updated_at": "2025-10-31 15:40:16+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Tech-Research-Team",
+    "full_name": "danielrosehill/Claude-Tech-Research-Team",
+    "description": "Example/templaet for using Claude Code repo structure for tech/stack research",
+    "url": "https://github.com/danielrosehill/Claude-Tech-Research-Team",
+    "created_at": "2025-10-31 15:37:45+00:00",
+    "updated_at": "2025-10-31 17:31:59+00:00",
+    "language": "Python",
+    "topics": [
+      "claude-code",
+      "claude-space",
+      "deep-research",
+      "pattern"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Agent-Picker-Pattern",
+    "full_name": "danielrosehill/Claude-Agent-Picker-Pattern",
+    "description": "Pattern/idea for the \"too many subagents\" problem",
+    "url": "https://github.com/danielrosehill/Claude-Agent-Picker-Pattern",
+    "created_at": "2025-10-31 01:21:03+00:00",
+    "updated_at": "2025-10-31 15:22:44+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "ideas",
+      "planning"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-Notebook",
+    "full_name": "danielrosehill/Claude-Code-Notebook",
+    "description": "Personal reference notebook for Claude Code (CLI) usage. Context: Linux desktop (Ubuntu)",
+    "url": "https://github.com/danielrosehill/Claude-Code-Notebook",
+    "created_at": "2025-10-30 18:44:22+00:00",
+    "updated_at": "2025-11-10 15:12:32+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "notebook",
+      "reference"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "MCP-Installation-Notebook",
+    "full_name": "danielrosehill/MCP-Installation-Notebook",
+    "description": "Notebook of things I've figured out about installing MCPs - as I figure them out",
+    "url": "https://github.com/danielrosehill/MCP-Installation-Notebook",
+    "created_at": "2025-10-30 15:15:56+00:00",
+    "updated_at": "2025-10-30 16:45:06+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Speech-Recognition-Audio-Chain",
+    "full_name": "danielrosehill/Speech-Recognition-Audio-Chain",
+    "description": "(Claude Code) Attempt to set up a good autostart audio processing chain for STT",
+    "url": "https://github.com/danielrosehill/Speech-Recognition-Audio-Chain",
+    "created_at": "2025-10-30 13:48:28+00:00",
+    "updated_at": "2025-10-30 14:15:05+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "claude-projects",
+      "speech-to-text",
+      "stt"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Local-ASR-STT-Benchmark",
+    "full_name": "danielrosehill/Local-ASR-STT-Benchmark",
+    "description": "Quick evaluation to find the best STT model in Speech Note (Ubuntu) for my HW",
+    "url": "https://github.com/danielrosehill/Local-ASR-STT-Benchmark",
+    "created_at": "2025-10-30 12:33:47+00:00",
+    "updated_at": "2025-10-31 01:09:50+00:00",
+    "language": "Python",
+    "topics": [
+      "asr",
+      "benchmarking",
+      "speech-to-text",
+      "whisper"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Deep-Research-Model",
+    "full_name": "danielrosehill/Claude-Deep-Research-Model",
+    "description": "Repo model for an iterative deep research model with voice pipeline",
+    "url": "https://github.com/danielrosehill/Claude-Deep-Research-Model",
+    "created_at": "2025-10-29 16:12:58+00:00",
+    "updated_at": "2025-11-02 01:08:49+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "deep-research"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-File-Organiser-Super-Slash",
+    "full_name": "danielrosehill/Claude-File-Organiser-Super-Slash",
+    "description": "One big slash command for filesystem tidying",
+    "url": "https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash",
+    "created_at": "2025-10-29 14:08:14+00:00",
+    "updated_at": "2025-10-29 14:55:24+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Spaces-Model",
+    "full_name": "danielrosehill/Claude-Spaces-Model",
+    "description": "Outline for using various repositories as discrete workspaces for Claude Code",
+    "url": "https://github.com/danielrosehill/Claude-Spaces-Model",
+    "created_at": "2025-10-29 13:12:15+00:00",
+    "updated_at": "2025-10-29 13:42:55+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "index",
+      "meta-repository",
+      "models",
+      "patterns"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-Remote-Machine-Admin-Space",
+    "full_name": "danielrosehill/Claude-Code-Remote-Machine-Admin-Space",
+    "description": null,
+    "url": "https://github.com/danielrosehill/Claude-Code-Remote-Machine-Admin-Space",
+    "created_at": "2025-10-29 13:09:34+00:00",
+    "updated_at": "2025-10-29 13:44:08+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "claude-spaces",
+      "idea",
+      "scaffold",
+      "template"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "AI-Dev-Repo-Template-Oct-2025",
+    "full_name": "danielrosehill/AI-Dev-Repo-Template-Oct-2025",
+    "description": "Updated AI assisted dev repo template (swap preferred CLI!)",
+    "url": "https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025",
+    "created_at": "2025-10-29 12:10:30+00:00",
+    "updated_at": "2025-10-29 13:26:52+00:00",
+    "language": null,
+    "topics": [
+      "ai-code-generation",
+      "code-gen",
+      "scaffold",
+      "template"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Conda-Manager",
+    "full_name": "danielrosehill/Claude-Conda-Manager",
+    "description": "Template Claude Code workspace for managing Conda",
+    "url": "https://github.com/danielrosehill/Claude-Conda-Manager",
+    "created_at": "2025-10-28 19:18:38+00:00",
+    "updated_at": "2025-10-28 19:33:33+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "claude-spaces",
+      "claude-workspaces",
+      "conda",
+      "package-management",
+      "python"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Github-Shortlister",
+    "full_name": "danielrosehill/Claude-Github-Shortlister",
+    "description": "Template: use Claude to shortlist potentlal tools/components",
+    "url": "https://github.com/danielrosehill/Claude-Github-Shortlister",
+    "created_at": "2025-10-28 15:34:52+00:00",
+    "updated_at": "2025-10-28 19:33:24+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "github",
+      "research"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Is-Awesome",
+    "full_name": "danielrosehill/Claude-Is-Awesome",
+    "description": "Awesome list creator using Claude Code",
+    "url": "https://github.com/danielrosehill/Claude-Is-Awesome",
+    "created_at": "2025-10-28 15:01:31+00:00",
+    "updated_at": "2025-10-28 15:25:52+00:00",
+    "language": null,
+    "topics": [
+      "awesome-lists",
+      "claude-code"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-MCP-List",
+    "full_name": "danielrosehill/Claude-Code-MCP-List",
+    "description": "Short collection of MCPs I use / to install for CC on Linux Desktop",
+    "url": "https://github.com/danielrosehill/Claude-Code-MCP-List",
+    "created_at": "2025-10-28 14:46:10+00:00",
+    "updated_at": "2025-10-28 19:41:09+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Crying-Baby-Audio-Scrub",
+    "full_name": "danielrosehill/Crying-Baby-Audio-Scrub",
+    "description": "Experiment to see if crying baby audio can be scrubbed with audio inpainting (use-case: WIP parenting and content creation!)",
+    "url": "https://github.com/danielrosehill/Crying-Baby-Audio-Scrub",
+    "created_at": "2025-10-28 14:31:49+00:00",
+    "updated_at": "2025-10-28 20:56:00+00:00",
+    "language": "Python",
+    "topics": [
+      "background-noise-removal",
+      "deepnet",
+      "experiments",
+      "poc",
+      "stt"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "AI-Stack-Oct-2025",
+    "full_name": "danielrosehill/AI-Stack-Oct-2025",
+    "description": "Model AI stack and budget (Oct 2025) - for ref, FAQs, etc",
+    "url": "https://github.com/danielrosehill/AI-Stack-Oct-2025",
+    "created_at": "2025-10-27 17:39:36+00:00",
+    "updated_at": "2025-10-28 14:25:10+00:00",
+    "language": null,
+    "topics": [
+      "ai-stacsk",
+      "generative-ai",
+      "stack-documentation"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-Context-Toolkit",
+    "full_name": "danielrosehill/Claude-Code-Context-Toolkit",
+    "description": "Plugin for a structured human and AI context workflow in Claude Code",
+    "url": "https://github.com/danielrosehill/Claude-Code-Context-Toolkit",
+    "created_at": "2025-10-27 14:58:22+00:00",
+    "updated_at": "2025-10-27 22:18:38+00:00",
+    "language": null,
+    "topics": [
+      "claude-code",
+      "context-management",
+      "plugins"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Text-Magic-Fix-Linux",
+    "full_name": "danielrosehill/Text-Magic-Fix-Linux",
+    "description": "WIP/Idea - Select text and fix typos with local AI",
+    "url": "https://github.com/danielrosehill/Text-Magic-Fix-Linux",
+    "created_at": "2025-10-27 14:14:24+00:00",
+    "updated_at": "2025-10-27 14:14:31+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "CONTEXT.md",
+    "full_name": "danielrosehill/CONTEXT.md",
+    "description": "Notes, loader for project context as a single markdown file (method)",
+    "url": "https://github.com/danielrosehill/CONTEXT.md",
+    "created_at": "2025-10-27 13:38:14+00:00",
+    "updated_at": "2025-10-28 19:48:07+00:00",
+    "language": null,
+    "topics": [
+      "context-handling",
+      "context-management",
+      "ideas"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Linux-Desktop-Manager",
+    "full_name": "danielrosehill/Claude-Linux-Desktop-Manager",
+    "description": "WIP/Plan: extension of slash commands to an actual GUi/program",
+    "url": "https://github.com/danielrosehill/Claude-Linux-Desktop-Manager",
+    "created_at": "2025-10-27 13:34:05+00:00",
+    "updated_at": "2025-10-30 16:36:36+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Experiments-And-Evaluations-Index",
+    "full_name": "danielrosehill/Experiments-And-Evaluations-Index",
+    "description": "Index of repositories concerning AI evaluations and experiments",
+    "url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index",
+    "created_at": "2025-10-27 12:56:16+00:00",
+    "updated_at": "2025-10-27 15:20:28+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Single-Shot-Brevity-Training",
+    "full_name": "danielrosehill/Single-Shot-Brevity-Training",
+    "description": "Using a single conversation as a model for a more TL;DR LLM experience",
+    "url": "https://github.com/danielrosehill/Single-Shot-Brevity-Training",
+    "created_at": "2025-10-27 12:33:08+00:00",
+    "updated_at": "2025-10-27 15:24:40+00:00",
+    "language": null,
+    "topics": [
+      "experiments",
+      "ideas"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "AI-Personal-EQ-Creator",
+    "full_name": "danielrosehill/AI-Personal-EQ-Creator",
+    "description": "AI Studio starter - upload voice sample, get EQ preset",
+    "url": "https://github.com/danielrosehill/AI-Personal-EQ-Creator",
+    "created_at": "2025-10-26 21:55:33+00:00",
+    "updated_at": "2025-10-26 22:11:26+00:00",
+    "language": "TypeScript",
+    "topics": [
+      "audio",
+      "eq",
+      "gemini"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Context-Projects-Index",
+    "full_name": "danielrosehill/Context-Projects-Index",
+    "description": "Index of projects related to context-gathering and generation for AI, including via interview approaches",
+    "url": "https://github.com/danielrosehill/Context-Projects-Index",
+    "created_at": "2025-10-26 19:46:35+00:00",
+    "updated_at": "2025-10-26 19:56:14+00:00",
+    "language": null,
+    "topics": [
+      "ai",
+      "context"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Context-Cruncher",
+    "full_name": "danielrosehill/Context-Cruncher",
+    "description": "App for extracting context data from voice recordings",
+    "url": "https://github.com/danielrosehill/Context-Cruncher",
+    "created_at": "2025-10-26 17:38:54+00:00",
+    "updated_at": "2025-10-26 19:44:37+00:00",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Batch-ClaudeMD-Repo-Creator",
+    "full_name": "danielrosehill/Batch-ClaudeMD-Repo-Creator",
+    "description": "For batch CLAUDE.md creation in large repository collections",
+    "url": "https://github.com/danielrosehill/Batch-ClaudeMD-Repo-Creator",
+    "created_at": "2025-10-26 13:58:45+00:00",
+    "updated_at": "2025-10-26 14:17:31+00:00",
+    "language": "Shell",
+    "topics": [
+      "bulk-utilities",
+      "claude-code",
+      "github-repos"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Awesome-List-Repos-Index",
+    "full_name": "danielrosehill/Awesome-List-Repos-Index",
+    "description": "Index of listing repositories I have created",
+    "url": "https://github.com/danielrosehill/Awesome-List-Repos-Index",
+    "created_at": "2025-10-26 00:11:57+00:00",
+    "updated_at": "2025-10-26 00:32:15+00:00",
+    "language": null,
+    "topics": [
+      "index-repo",
+      "indexes"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Linux-Desktop-ClaudeMD-Seeder",
+    "full_name": "danielrosehill/Linux-Desktop-ClaudeMD-Seeder",
+    "description": "Seeds Claude.md files at common places in Linux Desktop filesystems",
+    "url": "https://github.com/danielrosehill/Linux-Desktop-ClaudeMD-Seeder",
+    "created_at": "2025-10-25 15:53:15+00:00",
+    "updated_at": "2025-10-25 22:56:30+00:00",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Sound-Sensitivity-Notes",
+    "full_name": "danielrosehill/Sound-Sensitivity-Notes",
+    "description": "Just a few notes for others who experience sensitivity to sound based on things I've found helpful and mildly life-changing",
+    "url": "https://github.com/danielrosehill/Sound-Sensitivity-Notes",
+    "created_at": "2025-10-25 15:47:20+00:00",
+    "updated_at": "2025-10-25 15:47:26+00:00",
+    "language": null,
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-Repo-Managers-ClaudeMD",
+    "full_name": "danielrosehill/Claude-Code-Repo-Managers-ClaudeMD",
+    "description": "CLAUDE.md files for repo base levels for bulk mgmt",
+    "url": "https://github.com/danielrosehill/Claude-Code-Repo-Managers-ClaudeMD",
+    "created_at": "2025-10-25 15:42:03+00:00",
+    "updated_at": "2025-10-25 23:32:14+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "slash-commands"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-Security-Auditor",
+    "full_name": "danielrosehill/Claude-Code-Security-Auditor",
+    "description": "Pattern/model for using CC for conducting device level security audits",
+    "url": "https://github.com/danielrosehill/Claude-Code-Security-Auditor",
+    "created_at": "2025-10-25 15:02:06+00:00",
+    "updated_at": "2025-10-25 22:55:14+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "lan-audit",
+      "security"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Claude-Code-LAN-Manager",
+    "full_name": "danielrosehill/Claude-Code-LAN-Manager",
+    "description": "Repo for using Claude Code to manage local servers/homelabs",
+    "url": "https://github.com/danielrosehill/Claude-Code-LAN-Manager",
+    "created_at": "2025-10-25 14:54:13+00:00",
+    "updated_at": "2025-10-25 23:26:09+00:00",
+    "language": "Shell",
+    "topics": [
+      "arp",
+      "claude-code",
+      "homelab"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Bash-Alias-Manager-Claude",
+    "full_name": "danielrosehill/Bash-Alias-Manager-Claude",
+    "description": "Claude agent directory for managing bash aliases",
+    "url": "https://github.com/danielrosehill/Bash-Alias-Manager-Claude",
+    "created_at": "2025-10-25 14:27:55+00:00",
+    "updated_at": "2025-10-25 23:23:44+00:00",
+    "language": "Shell",
+    "topics": [
+      "bash-aliases",
+      "claude-code"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Policy-Visualiser",
+    "full_name": "danielrosehill/Policy-Visualiser",
+    "description": "Visualise how different countries and systems of government approach policy challenges with Gemini identifying clusters",
+    "url": "https://github.com/danielrosehill/Policy-Visualiser",
+    "created_at": "2025-10-24 16:23:28+00:00",
+    "updated_at": "2025-10-25 23:34:47+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "STT-To-TTS",
+    "full_name": "danielrosehill/STT-To-TTS",
+    "description": "Gemini app which captures user speech, condenses (LLM), and then synthes",
+    "url": "https://github.com/danielrosehill/STT-To-TTS",
+    "created_at": "2025-10-24 15:05:02+00:00",
+    "updated_at": "2025-10-24 15:05:34+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "AI-Timesheet-Creator",
+    "full_name": "danielrosehill/AI-Timesheet-Creator",
+    "description": "Gemini: screenshot and voice narration based timesheet creator",
+    "url": "https://github.com/danielrosehill/AI-Timesheet-Creator",
+    "created_at": "2025-10-24 14:55:37+00:00",
+    "updated_at": "2025-10-24 14:56:42+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Home-Inventory-Helper",
+    "full_name": "danielrosehill/Home-Inventory-Helper",
+    "description": "Gemini utility for extracting product data from visual product stickers",
+    "url": "https://github.com/danielrosehill/Home-Inventory-Helper",
+    "created_at": "2025-10-24 14:54:59+00:00",
+    "updated_at": "2025-10-24 15:01:19+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Gemini-Voice-Notepad",
+    "full_name": "danielrosehill/Gemini-Voice-Notepad",
+    "description": "Voice note transcription and cleanup with reformatting support",
+    "url": "https://github.com/danielrosehill/Gemini-Voice-Notepad",
+    "created_at": "2025-10-24 14:34:04+00:00",
+    "updated_at": "2025-10-24 14:34:21+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Multimodal-AI-Use-Case-Ideator",
+    "full_name": "danielrosehill/Multimodal-AI-Use-Case-Ideator",
+    "description": "Ideates use-cases for multimodal AI (Geminii)",
+    "url": "https://github.com/danielrosehill/Multimodal-AI-Use-Case-Ideator",
+    "created_at": "2025-10-24 13:23:50+00:00",
+    "updated_at": "2025-10-24 13:24:32+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Penpal-AI",
+    "full_name": "danielrosehill/Penpal-AI",
+    "description": "Gradio UI to explore conversational AI from a different perspective",
+    "url": "https://github.com/danielrosehill/Penpal-AI",
+    "created_at": "2025-10-24 11:59:44+00:00",
+    "updated_at": "2025-10-24 12:38:07+00:00",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "How-I-Use-Github-FYI",
+    "full_name": "danielrosehill/How-I-Use-Github-FYI",
+    "description": "For those who don't like their feeds being spammed...",
+    "url": "https://github.com/danielrosehill/How-I-Use-Github-FYI",
+    "created_at": "2025-10-24 11:27:03+00:00",
+    "updated_at": "2025-10-25 15:34:09+00:00",
+    "language": null,
+    "topics": [
+      "fyi",
+      "notes"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "My-Weird-Prompts",
+    "full_name": "danielrosehill/My-Weird-Prompts",
+    "description": "Blog/podcast made out of colorful (and mundane) AI prompts - and answers!",
+    "url": "https://github.com/danielrosehill/My-Weird-Prompts",
+    "created_at": "2025-10-24 10:16:48+00:00",
+    "updated_at": "2025-10-24 15:00:08+00:00",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Career-Pivot-AI",
+    "full_name": "danielrosehill/Career-Pivot-AI",
+    "description": "Career pivot ideation app (AI Studio, vibe coded starter)",
+    "url": "https://github.com/danielrosehill/Career-Pivot-AI",
+    "created_at": "2025-10-24 07:36:23+00:00",
+    "updated_at": "2025-10-24 07:45:12+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Voice-Analyzer",
+    "full_name": "danielrosehill/Voice-Analyzer",
+    "description": "Analyses voice data",
+    "url": "https://github.com/danielrosehill/Voice-Analyzer",
+    "created_at": "2025-10-24 07:30:46+00:00",
+    "updated_at": "2025-10-24 07:31:06+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "AI-Room-Dimension-Estimator",
+    "full_name": "danielrosehill/AI-Room-Dimension-Estimator",
+    "description": "Upload pics, get ballpark dimensions",
+    "url": "https://github.com/danielrosehill/AI-Room-Dimension-Estimator",
+    "created_at": "2025-10-24 04:22:22+00:00",
+    "updated_at": "2025-10-24 04:23:04+00:00",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Text-To-SSML-Generator",
+    "full_name": "danielrosehill/Text-To-SSML-Generator",
+    "description": "Generates SSML from text by inference",
+    "url": "https://github.com/danielrosehill/Text-To-SSML-Generator",
+    "created_at": "2025-10-23 22:59:00+00:00",
+    "updated_at": "2025-10-23 23:02:56+00:00",
+    "language": "TypeScript",
+    "topics": [
+      "gemini-ai",
+      "vibe-coded"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "LLM-Detective",
+    "full_name": "danielrosehill/LLM-Detective",
+    "description": "Agent that tries to probe other models' capabilities with conversation",
+    "url": "https://github.com/danielrosehill/LLM-Detective",
+    "created_at": "2025-10-23 15:25:23+00:00",
+    "updated_at": "2025-10-25 23:49:38+00:00",
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "evaluations",
+      "llms"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "What-Reqs-Scanner",
+    "full_name": "danielrosehill/What-Reqs-Scanner",
+    "description": "Python utility that scans a repo base for requirements.txt to analyse most used packages and suggest base env",
+    "url": "https://github.com/danielrosehill/What-Reqs-Scanner",
+    "created_at": "2025-10-23 14:30:52+00:00",
+    "updated_at": "2025-10-23 14:50:18+00:00",
+    "language": "Python",
+    "topics": [
+      "ai-analysis",
+      "cli",
+      "python"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Home-Folder-Claude-MD",
+    "full_name": "danielrosehill/Home-Folder-Claude-MD",
+    "description": "CLAUDE.md for my home directory on an Ubuntu Linux desktop",
+    "url": "https://github.com/danielrosehill/Home-Folder-Claude-MD",
+    "created_at": "2025-10-23 11:52:31+00:00",
+    "updated_at": "2025-10-25 23:47:51+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude",
+      "claude-code",
+      "sysadmin"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "AI-Developer-Notebook",
+    "full_name": "danielrosehill/AI-Developer-Notebook",
+    "description": "Notes for configuring a reference notebook with Claude Code",
+    "url": "https://github.com/danielrosehill/AI-Developer-Notebook",
+    "created_at": "2025-10-23 11:34:34+00:00",
+    "updated_at": "2025-10-25 23:51:07+00:00",
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "developer-notes",
+      "documentation",
+      "obsidian"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Gemini-Vibe-Coding-Projects",
+    "full_name": "danielrosehill/Gemini-Vibe-Coding-Projects",
+    "description": "List of vibe-coded starters created with Google AI Studio app builder",
+    "url": "https://github.com/danielrosehill/Gemini-Vibe-Coding-Projects",
+    "created_at": "2025-10-23 11:32:56+00:00",
+    "updated_at": "2025-10-26 22:22:40+00:00",
+    "language": null,
+    "topics": [
+      "ai-apps",
+      "collection",
+      "gemini-cli",
+      "vibe-coding"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Logitech-C925E-Boot-Configurator",
+    "full_name": "danielrosehill/Logitech-C925E-Boot-Configurator",
+    "description": "v4l2 configuration script for Logitech C925e webcam - sets 1080p @ 24fps MJPEG on boot",
+    "url": "https://github.com/danielrosehill/Logitech-C925E-Boot-Configurator",
+    "created_at": "2025-10-23 11:25:24+00:00",
+    "updated_at": "2025-10-23 11:27:14+00:00",
+    "language": "Shell",
+    "topics": [
+      "linux",
+      "logitch-c925e",
+      "vl42",
+      "webcams"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Resource-Space-DAM-Assets",
+    "full_name": "danielrosehill/Resource-Space-DAM-Assets",
+    "description": "Taxonomies and a few other bits and pieces that might be of use",
+    "url": "https://github.com/danielrosehill/Resource-Space-DAM-Assets",
+    "created_at": "2025-10-23 10:21:54+00:00",
+    "updated_at": "2025-10-23 11:23:33+00:00",
+    "language": null,
+    "topics": [
+      "dam",
+      "digital-asset-management",
+      "taxonomies"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
+    "name": "Homebox-Backup-GUI",
+    "full_name": "danielrosehill/Homebox-Backup-GUI",
+    "description": "GUI for creating backups of Homebox (with Postgres)",
+    "url": "https://github.com/danielrosehill/Homebox-Backup-GUI",
+    "created_at": "2025-10-22 21:26:05+00:00",
+    "updated_at": "2025-10-23 11:15:04+00:00",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
     "name": "Development-Project-Index",
     "full_name": "danielrosehill/Development-Project-Index",
     "description": "Combined indexer for projects on Github and Hugging Face",
     "url": "https://github.com/danielrosehill/Development-Project-Index",
     "created_at": "2025-10-22 16:49:41+00:00",
-    "updated_at": "2025-10-22 16:49:48+00:00",
-    "language": null,
-    "topics": []
+    "updated_at": "2025-10-26 00:10:25+00:00",
+    "language": "Python",
+    "topics": [
+      "github",
+      "hugging-face",
+      "index-utilities",
+      "indexing"
+    ]
   },
   {
     "source": "GitHub",
@@ -31,7 +1315,7 @@
     "description": "Idea - using Claude Code in place of Ansible for cross-device updating/sync",
     "url": "https://github.com/danielrosehill/Claude-OS-Sync-Agent",
     "created_at": "2025-10-22 14:47:31+00:00",
-    "updated_at": "2025-10-22 15:21:57+00:00",
+    "updated_at": "2025-10-22 21:03:46+00:00",
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -79,8 +1363,8 @@
     "description": "Attempting to map out the various input/output permutations for multimodal AI",
     "url": "https://github.com/danielrosehill/Multimodal-AI-Taxonomy",
     "created_at": "2025-10-22 12:59:03+00:00",
-    "updated_at": "2025-10-22 13:50:34+00:00",
-    "language": null,
+    "updated_at": "2025-10-22 17:38:25+00:00",
+    "language": "Python",
     "topics": []
   },
   {
@@ -108,8 +1392,8 @@
     "description": "Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)",
     "url": "https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands",
     "created_at": "2025-10-21 08:14:39+00:00",
-    "updated_at": "2025-10-22 15:33:42+00:00",
-    "language": null,
+    "updated_at": "2025-11-11 01:22:46+00:00",
+    "language": "Shell",
     "topics": [
       "claude-code",
       "linux-desktop",
@@ -239,7 +1523,7 @@
     "description": "Provides CC MCP installation commands",
     "url": "https://github.com/danielrosehill/Claude-Code-MCP-Command-Generator",
     "created_at": "2025-10-16 16:23:51+00:00",
-    "updated_at": "2025-10-17 07:07:40+00:00",
+    "updated_at": "2025-10-22 21:03:36+00:00",
     "language": "Shell",
     "topics": []
   },
@@ -275,8 +1559,8 @@
     "description": "Index of repositories related to Claude Code CLI",
     "url": "https://github.com/danielrosehill/Claude-Code-Repos-Index",
     "created_at": "2025-10-11 21:40:40+00:00",
-    "updated_at": "2025-10-22 16:36:07+00:00",
-    "language": null,
+    "updated_at": "2025-11-10 16:05:11+00:00",
+    "language": "Python",
     "topics": [
       "claude-code",
       "claude-code-cli",
@@ -291,7 +1575,7 @@
     "description": "My Claude Code slash commands",
     "url": "https://github.com/danielrosehill/Claude-Slash-Commands",
     "created_at": "2025-10-11 18:58:12+00:00",
-    "updated_at": "2025-10-22 15:19:33+00:00",
+    "updated_at": "2025-11-06 20:36:23+00:00",
     "language": "Python",
     "topics": [
       "claude",
@@ -354,7 +1638,7 @@
     "description": "Experimentary implementation of a model real life political body populated by representative AI agents",
     "url": "https://github.com/danielrosehill/AI-Agent-UN",
     "created_at": "2025-10-09 10:01:40+00:00",
-    "updated_at": "2025-10-09 12:42:38+00:00",
+    "updated_at": "2025-10-30 17:29:11+00:00",
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -371,7 +1655,7 @@
     "description": "Updated \"vibe-coded\" GUI for reading/writing to the ACR1252 USB NFC reader/writer (Linux)",
     "url": "https://github.com/danielrosehill/ACR-1252-GUI-1025",
     "created_at": "2025-10-04 11:15:18+00:00",
-    "updated_at": "2025-10-04 11:34:32+00:00",
+    "updated_at": "2025-11-07 17:03:45+00:00",
     "language": "Python",
     "topics": [
       "acr1252",
@@ -420,7 +1704,7 @@
     "description": "Small collection of non-development related uses for Claude Code",
     "url": "https://github.com/danielrosehill/Non-Code-Claude-Code",
     "created_at": "2025-10-03 06:02:54+00:00",
-    "updated_at": "2025-10-16 15:54:43+00:00",
+    "updated_at": "2025-10-27 07:05:29+00:00",
     "language": null,
     "topics": [
       "claude",
@@ -437,7 +1721,7 @@
     "description": "Claude Code repos and other resources",
     "url": "https://github.com/danielrosehill/Cool-Claude-Code-Stuff",
     "created_at": "2025-10-02 13:46:28+00:00",
-    "updated_at": "2025-10-11 01:16:57+00:00",
+    "updated_at": "2025-11-08 13:35:23+00:00",
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -579,7 +1863,7 @@
     "description": "Curated list of real\u2011world AGENTS.md files, templates, guides & tools for OpenAI\u00a0Codex\u2011based agents.",
     "url": "https://github.com/danielrosehill/awesome-agents-md",
     "created_at": "2025-09-17 18:28:01+00:00",
-    "updated_at": "2025-10-16 15:54:52+00:00",
+    "updated_at": "2025-11-11 20:31:04+00:00",
     "language": null,
     "topics": []
   },
@@ -591,7 +1875,7 @@
     "description": "Template agents.md templates for use with OpenAI Codex",
     "url": "https://github.com/danielrosehill/Agents.md-Templates",
     "created_at": "2025-09-17 17:53:38+00:00",
-    "updated_at": "2025-09-17 18:16:27+00:00",
+    "updated_at": "2025-11-01 02:40:26+00:00",
     "language": "Python",
     "topics": [
       "codex",
@@ -607,9 +1891,13 @@
     "description": "Model repository structure for using a Claude Code agent crew for writing related tasks",
     "url": "https://github.com/danielrosehill/Claude-Code-Writing-Squad",
     "created_at": "2025-09-16 21:39:35+00:00",
-    "updated_at": "2025-09-17 05:45:24+00:00",
+    "updated_at": "2025-11-03 11:30:35+00:00",
     "language": "Python",
-    "topics": []
+    "topics": [
+      "agents",
+      "claude-code",
+      "claude-code-non-code"
+    ]
   },
   {
     "source": "GitHub",
@@ -737,7 +2025,7 @@
     "description": "Collection of subagents for Claude Code with configs spanning ideation, editing, version control",
     "url": "https://github.com/danielrosehill/Claude-Sub-Agent-Network",
     "created_at": "2025-09-09 19:10:59+00:00",
-    "updated_at": "2025-09-11 00:27:18+00:00",
+    "updated_at": "2025-11-03 11:30:49+00:00",
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -950,7 +2238,7 @@
     "description": null,
     "url": "https://github.com/danielrosehill/Github-Subindex-Template",
     "created_at": "2025-08-31 13:26:32+00:00",
-    "updated_at": "2025-09-04 05:53:11+00:00",
+    "updated_at": "2025-10-30 17:48:39+00:00",
     "language": null,
     "topics": []
   },
@@ -1103,12 +2391,17 @@
     "type": "Repository",
     "name": "Agent-SDK-Env-Setup",
     "full_name": "danielrosehill/Agent-SDK-Env-Setup",
-    "description": "Script to clone a few of the main ADKs for testing/experimentation",
+    "description": "Script to clone a few of the main ADKs (agent development kids) for testing/experimentation",
     "url": "https://github.com/danielrosehill/Agent-SDK-Env-Setup",
     "created_at": "2025-08-26 16:04:54+00:00",
-    "updated_at": "2025-08-26 16:40:53+00:00",
+    "updated_at": "2025-10-26 13:36:05+00:00",
     "language": "Python",
-    "topics": []
+    "topics": [
+      "adks",
+      "agentic-ai",
+      "ai-agents",
+      "installation-utilities"
+    ]
   },
   {
     "source": "GitHub",
@@ -1118,7 +2411,7 @@
     "description": "Point in time collection of some agent development kits (ADKs) to explore",
     "url": "https://github.com/danielrosehill/A-Few-ADKs",
     "created_at": "2025-08-25 22:00:51+00:00",
-    "updated_at": "2025-08-31 13:19:33+00:00",
+    "updated_at": "2025-11-07 16:56:30+00:00",
     "language": null,
     "topics": [
       "adk",
@@ -1312,7 +2605,7 @@
     "description": "Repo pattern/template for defined task handling by an LLM on a remote using MCP-SSH",
     "url": "https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP",
     "created_at": "2025-08-13 09:49:48+00:00",
-    "updated_at": "2025-08-13 10:47:17+00:00",
+    "updated_at": "2025-11-07 17:21:33+00:00",
     "language": null,
     "topics": [
       "agents",
@@ -1358,7 +2651,7 @@
     "description": "Model for simple handover management (via docs!) between AI agents",
     "url": "https://github.com/danielrosehill/Agent-Handover-Demo",
     "created_at": "2025-08-11 23:25:26+00:00",
-    "updated_at": "2025-08-11 23:40:34+00:00",
+    "updated_at": "2025-11-07 17:11:10+00:00",
     "language": null,
     "topics": [
       "agents",
@@ -1424,9 +2717,14 @@
     "description": "Indexing repo of backup related projects and scripts",
     "url": "https://github.com/danielrosehill/Backup-Projects-Index",
     "created_at": "2025-08-10 12:27:09+00:00",
-    "updated_at": "2025-10-22 16:32:54+00:00",
+    "updated_at": "2025-10-26 00:58:15+00:00",
     "language": null,
-    "topics": []
+    "topics": [
+      "backup-utilities",
+      "backups",
+      "index",
+      "indexes"
+    ]
   },
   {
     "source": "GitHub",
@@ -1436,9 +2734,12 @@
     "description": "Indexing repo for apps created",
     "url": "https://github.com/danielrosehill/Apps-Index",
     "created_at": "2025-08-10 12:00:02+00:00",
-    "updated_at": "2025-10-22 16:32:42+00:00",
+    "updated_at": "2025-10-26 00:52:23+00:00",
     "language": null,
-    "topics": []
+    "topics": [
+      "index",
+      "indexes"
+    ]
   },
   {
     "source": "GitHub",
@@ -1448,21 +2749,27 @@
     "description": "Indexing repo for HA projects",
     "url": "https://github.com/danielrosehill/Home-Assistant-Index",
     "created_at": "2025-08-10 11:59:46+00:00",
-    "updated_at": "2025-10-22 16:33:05+00:00",
+    "updated_at": "2025-10-26 00:56:37+00:00",
     "language": null,
-    "topics": []
+    "topics": [
+      "home-assistant",
+      "index"
+    ]
   },
   {
     "source": "GitHub",
     "type": "Repository",
     "name": "Homebox-Projects-Index",
     "full_name": "danielrosehill/Homebox-Projects-Index",
-    "description": null,
+    "description": "Index of Homebox related projects (home inventory system)",
     "url": "https://github.com/danielrosehill/Homebox-Projects-Index",
     "created_at": "2025-08-10 11:59:31+00:00",
-    "updated_at": "2025-10-22 16:33:11+00:00",
+    "updated_at": "2025-11-08 19:39:37+00:00",
     "language": null,
-    "topics": []
+    "topics": [
+      "homebox",
+      "indexes"
+    ]
   },
   {
     "source": "GitHub",
@@ -1484,7 +2791,7 @@
     "description": "Index of AI project related indices (master index)",
     "url": "https://github.com/danielrosehill/AI-Projects-Index",
     "created_at": "2025-08-09 12:05:44+00:00",
-    "updated_at": "2025-08-31 14:38:44+00:00",
+    "updated_at": "2025-10-26 21:30:04+00:00",
     "language": null,
     "topics": [
       "ai",
@@ -1549,7 +2856,7 @@
     "description": "Some simple data tables for populating a backend for storing prompt runs",
     "url": "https://github.com/danielrosehill/AI-Output-Storage-Backend-Data-Models",
     "created_at": "2025-08-09 11:05:37+00:00",
-    "updated_at": "2025-08-09 11:27:45+00:00",
+    "updated_at": "2025-11-07 17:35:49+00:00",
     "language": null,
     "topics": [
       "data",
@@ -1840,7 +3147,7 @@
     "description": "Periodically updated index of AI agent configurations that I'm working on (or have created)",
     "url": "https://github.com/danielrosehill/AI-Agents",
     "created_at": "2025-07-22 12:01:11+00:00",
-    "updated_at": "2025-09-30 14:34:54+00:00",
+    "updated_at": "2025-10-25 23:46:04+00:00",
     "language": null,
     "topics": [
       "agents",
@@ -2078,7 +3385,7 @@
     "description": "System prompts for AI agents and assistants (automatically populated); periodic point in time exports are releases",
     "url": "https://github.com/danielrosehill/System-Prompt-Library",
     "created_at": "2025-05-27 15:23:13+00:00",
-    "updated_at": "2025-10-16 15:41:26+00:00",
+    "updated_at": "2025-11-09 07:02:05+00:00",
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -2147,9 +3454,13 @@
     "description": "Useful speech to text tools that use Whisper under the hood (API/local)",
     "url": "https://github.com/danielrosehill/Awesome-Whisper-Apps",
     "created_at": "2025-05-23 07:01:30+00:00",
-    "updated_at": "2025-05-23 07:01:36+00:00",
+    "updated_at": "2025-10-26 15:52:29+00:00",
     "language": null,
-    "topics": []
+    "topics": [
+      "openai",
+      "speech-to-text",
+      "whisper"
+    ]
   },
   {
     "source": "GitHub",
@@ -2920,7 +4231,7 @@
     "description": "Breaks up texts by approximate reading duration",
     "url": "https://github.com/danielrosehill/ASR-Training-Data-Chunker",
     "created_at": "2025-04-13 16:58:21+00:00",
-    "updated_at": "2025-04-13 17:14:04+00:00",
+    "updated_at": "2025-11-07 18:38:50+00:00",
     "language": "Python",
     "topics": []
   },
@@ -3077,7 +4388,7 @@
     "description": "Using Perplexity API structured prompting and N8N to deliver a tailored news brief",
     "url": "https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar",
     "created_at": "2025-04-08 23:56:57+00:00",
-    "updated_at": "2025-04-09 01:19:43+00:00",
+    "updated_at": "2025-10-27 21:36:33+00:00",
     "language": null,
     "topics": [
       "n8n",
@@ -3094,9 +4405,13 @@
     "description": "Modelling how AI assistants can ideate the expansion of agent/assistant networks through a simple example-following pattern",
     "url": "https://github.com/danielrosehill/Agent-Network-Expander-Template",
     "created_at": "2025-04-08 15:27:06+00:00",
-    "updated_at": "2025-04-08 15:27:16+00:00",
-    "language": null,
-    "topics": []
+    "updated_at": "2025-11-07 17:18:43+00:00",
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "patterns",
+      "templates"
+    ]
   },
   {
     "source": "GitHub",
@@ -3489,7 +4804,7 @@
     "description": "System prompt (03/25) for a conversational AI agent and assistant idea generator",
     "url": "https://github.com/danielrosehill/AI-Agent-Ideation-Chatbot-System-Prompt",
     "created_at": "2025-03-26 18:31:06+00:00",
-    "updated_at": "2025-10-17 06:57:20+00:00",
+    "updated_at": "2025-11-05 20:51:27+00:00",
     "language": null,
     "topics": [
       "ai-agents",
@@ -3530,7 +4845,7 @@
     "description": "LLM text reformatting and rewriting toolbox comprised of many system prompts",
     "url": "https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox",
     "created_at": "2025-03-25 10:49:00+00:00",
-    "updated_at": "2025-03-25 12:05:37+00:00",
+    "updated_at": "2025-11-10 20:28:00+00:00",
     "language": "Python",
     "topics": []
   },
@@ -3863,7 +5178,7 @@
     "description": "Streamlit app for ideating AI assisants",
     "url": "https://github.com/danielrosehill/AI-Assistant-Ideator",
     "created_at": "2025-03-09 19:21:47+00:00",
-    "updated_at": "2025-03-09 19:52:54+00:00",
+    "updated_at": "2025-10-26 14:29:47+00:00",
     "language": "Python",
     "topics": []
   },
@@ -4205,7 +5520,7 @@
     "description": "A repository that indexes my Github projects",
     "url": "https://github.com/danielrosehill/Github-Master-Index",
     "created_at": "2025-02-22 18:49:30+00:00",
-    "updated_at": "2025-10-02 19:33:08+00:00",
+    "updated_at": "2025-11-02 00:55:17+00:00",
     "language": "Python",
     "topics": [
       "github",
@@ -4233,7 +5548,7 @@
     "description": "A selection of prompts designed for use with Open Web UI (rather than conventional prompts, they're more useful for steering existing conversations)",
     "url": "https://github.com/danielrosehill/OpenWebUI-Prompt-Library",
     "created_at": "2025-02-19 18:26:47+00:00",
-    "updated_at": "2025-10-07 20:33:18+00:00",
+    "updated_at": "2025-11-11 20:12:51+00:00",
     "language": "Shell",
     "topics": []
   },
@@ -4331,7 +5646,7 @@
     "description": "Some custom mode-setting system prompts for Roo Code",
     "url": "https://github.com/danielrosehill/RooCode-Mode-Prompts",
     "created_at": "2025-02-15 22:06:05+00:00",
-    "updated_at": "2025-09-12 07:48:19+00:00",
+    "updated_at": "2025-10-28 07:02:44+00:00",
     "language": "Python",
     "topics": []
   },
@@ -4592,7 +5907,7 @@
     "description": "Demonstration modelling how a chained LLM agent workflow could be used to expedite the generation of personal contextual data for personalised LLM experiences and personal RAG development",
     "url": "https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo",
     "created_at": "2025-02-03 17:01:23+00:00",
-    "updated_at": "2025-10-07 01:57:14+00:00",
+    "updated_at": "2025-11-07 17:24:02+00:00",
     "language": "Python",
     "topics": [
       "context",
@@ -4621,7 +5936,7 @@
     "description": "Desktop NFC reader/writer GUI for the ACR1252U (validated with NTAG213 on Linux)",
     "url": "https://github.com/danielrosehill/NFC-Reader-Writer-App",
     "created_at": "2025-02-01 09:14:04+00:00",
-    "updated_at": "2025-09-15 02:59:49+00:00",
+    "updated_at": "2025-10-22 18:45:44+00:00",
     "language": "Python",
     "topics": []
   },
@@ -5009,9 +6324,13 @@
     "description": "General feature requests for tech tools that I use and love!",
     "url": "https://github.com/danielrosehill/Feature-Ideas-And-Requests",
     "created_at": "2024-12-29 14:49:30+00:00",
-    "updated_at": "2024-12-29 15:20:52+00:00",
-    "language": null,
-    "topics": []
+    "updated_at": "2025-10-28 19:25:21+00:00",
+    "language": "Python",
+    "topics": [
+      "feature-requests",
+      "frs",
+      "indexes"
+    ]
   },
   {
     "source": "GitHub",
@@ -5093,7 +6412,7 @@
     "description": "Synthetic data containing personally identifiable information",
     "url": "https://github.com/danielrosehill/Mock-PII-Data",
     "created_at": "2024-12-20 14:19:04+00:00",
-    "updated_at": "2024-12-20 14:39:12+00:00",
+    "updated_at": "2025-11-11 19:16:16+00:00",
     "language": "Python",
     "topics": []
   },
@@ -5198,9 +6517,13 @@
     "description": "Configuration text for an LLM assistant designed to assist users with documenting abusive messages",
     "url": "https://github.com/danielrosehill/Abusive-Message-Parser-AI-Config",
     "created_at": "2024-12-15 14:22:14+00:00",
-    "updated_at": "2025-04-01 13:51:46+00:00",
+    "updated_at": "2025-11-03 11:31:40+00:00",
     "language": null,
-    "topics": []
+    "topics": [
+      "ai-agents",
+      "assistants",
+      "mental-health"
+    ]
   },
   {
     "source": "GitHub",
@@ -5431,6 +6754,18 @@
   {
     "source": "GitHub",
     "type": "Repository",
+    "name": "speech-notes-with-text-fixes",
+    "full_name": "danielrosehill/speech-notes-with-text-fixes",
+    "description": "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",
+    "url": "https://github.com/danielrosehill/speech-notes-with-text-fixes",
+    "created_at": "2024-12-01 19:23:43+00:00",
+    "updated_at": "2025-10-30 15:23:26+00:00",
+    "language": "C++",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "Repository",
     "name": "Prompt-Builder",
     "full_name": "danielrosehill/Prompt-Builder",
     "description": "Work in progress. Assemble prompts based upon templated forms in the browser. ",
@@ -5460,9 +6795,12 @@
     "description": "An index to my various documentation projects, both on Github and elsewhere",
     "url": "https://github.com/danielrosehill/My-Docs-Index",
     "created_at": "2024-11-29 17:44:27+00:00",
-    "updated_at": "2025-10-22 16:33:17+00:00",
+    "updated_at": "2025-10-31 07:44:20+00:00",
     "language": null,
-    "topics": []
+    "topics": [
+      "docs",
+      "indexes"
+    ]
   },
   {
     "source": "GitHub",
@@ -5992,7 +7330,7 @@
     "description": "Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults",
     "url": "https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools",
     "created_at": "2024-09-30 00:14:49+00:00",
-    "updated_at": "2025-10-14 15:32:29+00:00",
+    "updated_at": "2025-11-09 19:10:11+00:00",
     "language": null,
     "topics": []
   },
@@ -6232,7 +7570,7 @@
     "description": "Github homepage text",
     "url": "https://github.com/danielrosehill/danielrosehill",
     "created_at": "2024-08-11 02:00:11+00:00",
-    "updated_at": "2025-08-03 21:11:38+00:00",
+    "updated_at": "2025-11-03 10:35:16+00:00",
     "language": null,
     "topics": []
   },
@@ -6352,7 +7690,7 @@
     "description": "An index of prompting libraries for GPTs, including ChatGPT. Some of these are on Github and others are hosted externally.",
     "url": "https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries",
     "created_at": "2024-08-07 16:50:44+00:00",
-    "updated_at": "2025-10-09 07:11:27+00:00",
+    "updated_at": "2025-11-10 17:46:07+00:00",
     "language": null,
     "topics": []
   },
@@ -6520,7 +7858,7 @@
     "description": "A repository of prompts I've used when working with LLMs as well as some example outputs and notes",
     "url": "https://github.com/danielrosehill/Prompt-Library",
     "created_at": "2024-07-24 17:25:34+00:00",
-    "updated_at": "2025-09-07 03:48:34+00:00",
+    "updated_at": "2025-10-24 19:33:15+00:00",
     "language": null,
     "topics": [
       "gpt",
@@ -6627,7 +7965,7 @@
     "description": "GUIs and other tools that make managing Kubernetes clusters easier for Linux desktop users (I use Ubuntu but will add resources for other distros)",
     "url": "https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop",
     "created_at": "2024-04-20 17:48:38+00:00",
-    "updated_at": "2024-08-08 00:04:20+00:00",
+    "updated_at": "2025-10-26 14:57:18+00:00",
     "language": null,
     "topics": []
   },
@@ -6711,7 +8049,7 @@
     "description": "A Home Assistant grocery list optimised for the needs of Israeli consumers.",
     "url": "https://github.com/danielrosehill/MakoletTime",
     "created_at": "2024-03-29 21:21:42+00:00",
-    "updated_at": "2025-06-17 01:11:21+00:00",
+    "updated_at": "2025-10-31 05:53:20+00:00",
     "language": null,
     "topics": []
   },

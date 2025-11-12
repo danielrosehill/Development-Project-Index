@@ -2,6 +2,231 @@
   {
     "source": "HuggingFace",
     "type": "Space",
+    "name": "Agentic-LLM-Price-Comparisons",
+    "full_name": "danielrosehill/Agentic-LLM-Price-Comparisons",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Agentic-LLM-Price-Comparisons",
+    "created_at": "2025-11-08 21:26:02+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Nano-Banana-Sketch-Cleanup",
+    "full_name": "danielrosehill/Nano-Banana-Sketch-Cleanup",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Nano-Banana-Sketch-Cleanup",
+    "created_at": "2025-11-02 00:37:52+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Claude-Agent-Picker-Idea",
+    "full_name": "danielrosehill/Claude-Agent-Picker-Idea",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Claude-Agent-Picker-Idea",
+    "created_at": "2025-10-31 02:03:32+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Local-STT-Eval-One-Sample",
+    "full_name": "danielrosehill/Local-STT-Eval-One-Sample",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Local-STT-Eval-One-Sample",
+    "created_at": "2025-10-31 01:11:43+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Deepnet-Baby-Noise-Scrub",
+    "full_name": "danielrosehill/Deepnet-Baby-Noise-Scrub",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Deepnet-Baby-Noise-Scrub",
+    "created_at": "2025-10-28 20:57:24+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Single-Shot-Brevity-Training",
+    "full_name": "danielrosehill/Single-Shot-Brevity-Training",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Single-Shot-Brevity-Training",
+    "created_at": "2025-10-27 15:23:27+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Claude-Code-Slash-Commands",
+    "full_name": "danielrosehill/Claude-Code-Slash-Commands",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Claude-Code-Slash-Commands",
+    "created_at": "2025-10-26 22:37:57+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Claude-Code-Slash-Commands-Linux-Desktop",
+    "full_name": "danielrosehill/Claude-Code-Slash-Commands-Linux-Desktop",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Claude-Code-Slash-Commands-Linux-Desktop",
+    "created_at": "2025-10-26 22:31:43+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Gemini-Vibe-Coded-POCs",
+    "full_name": "danielrosehill/Gemini-Vibe-Coded-POCs",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Gemini-Vibe-Coded-POCs",
+    "created_at": "2025-10-26 21:49:47+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "EQ-Template-Generator",
+    "full_name": "danielrosehill/EQ-Template-Generator",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/EQ-Template-Generator",
+    "created_at": "2025-10-26 21:37:37+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "AI-Project-Index",
+    "full_name": "danielrosehill/AI-Project-Index",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/AI-Project-Index",
+    "created_at": "2025-10-26 21:31:18+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Context-Cruncher",
+    "full_name": "danielrosehill/Context-Cruncher",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Context-Cruncher",
+    "created_at": "2025-10-26 19:45:03+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Interesting-Whisper-Projects",
+    "full_name": "danielrosehill/Interesting-Whisper-Projects",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Interesting-Whisper-Projects",
+    "created_at": "2025-10-26 15:50:51+00:00",
+    "updated_at": null,
+    "language": "static",
+    "topics": [
+      "static",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Penpal-AI-Interface",
+    "full_name": "danielrosehill/Penpal-AI-Interface",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Penpal-AI-Interface",
+    "created_at": "2025-10-24 12:33:41+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
+    "name": "Human-To-AI-Text-Converter",
+    "full_name": "danielrosehill/Human-To-AI-Text-Converter",
+    "description": null,
+    "url": "https://huggingface.co/spaces/danielrosehill/Human-To-AI-Text-Converter",
+    "created_at": "2025-10-23 15:37:49+00:00",
+    "updated_at": null,
+    "language": "gradio",
+    "topics": [
+      "gradio",
+      "region:us"
+    ]
+  },
+  {
+    "source": "HuggingFace",
+    "type": "Space",
     "name": "Multimodal-AI-Taxonomy",
     "full_name": "danielrosehill/Multimodal-AI-Taxonomy",
     "description": null,
