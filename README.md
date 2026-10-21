@@ -1,6 +1,6 @@
 # Development Project Index
 
-[![Master Index](https://img.shields.io/badge/Master_Index-danielrosehill/Github--Master--Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/Master_Index-danielrosehill/Github--Master--Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Start-Here)
 [![Index Repo](https://img.shields.io/badge/Type-Index_Repository-orange?style=flat-square)](https://github.com/danielrosehill/Development-Project-Index)
 
 A personal tool for indexing my public projects across GitHub and Hugging Face platforms. This repository serves as both my project index and an open-source pattern that others can adapt for their own use.
